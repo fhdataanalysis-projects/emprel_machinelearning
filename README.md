@@ -125,8 +125,6 @@ O modelo foi rodado 30 vezes na base de teste, a fim de visualizar o comportamen
 
 ![Importância das Features](notebooks/images/30rounds.png)
 
-O gráfico acima ilustra as variáveis mais relevantes para o modelo XGBoost, destacando as que mais impactam na previsão do score de maturidade das startups.
-
 ___
 | Métrica | Média   | Desvio Padrão |
 |---------|---------|---------------|

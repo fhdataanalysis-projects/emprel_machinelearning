@@ -1,0 +1,298 @@
+[
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "relu",
+            "hidden_layer_sizes": [
+                50
+            ],
+            "learning_rate_init": 0.001
+        },
+        "R2_Train": 0.9853984001786463,
+        "R2_Val": 0.9794231508957907,
+        "MAE_Val": 1.078955913119928,
+        "RMSE_Val": 1.406244151355123
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "relu",
+            "hidden_layer_sizes": [
+                50
+            ],
+            "learning_rate_init": 0.01
+        },
+        "R2_Train": 0.9510106310303931,
+        "R2_Val": 0.9498755475858832,
+        "MAE_Val": 1.1851085143062168,
+        "RMSE_Val": 1.5380620787862032
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "relu",
+            "hidden_layer_sizes": [
+                100
+            ],
+            "learning_rate_init": 0.001
+        },
+        "R2_Train": 0.9874957199444558,
+        "R2_Val": 0.9794873580752679,
+        "MAE_Val": 1.1322957634453783,
+        "RMSE_Val": 1.4320877840750954
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "relu",
+            "hidden_layer_sizes": [
+                100
+            ],
+            "learning_rate_init": 0.01
+        },
+        "R2_Train": 0.9502624004963864,
+        "R2_Val": 0.9428737360559222,
+        "MAE_Val": 3.002413286792038,
+        "RMSE_Val": 3.747545444331064
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "relu",
+            "hidden_layer_sizes": [
+                50,
+                50
+            ],
+            "learning_rate_init": 0.001
+        },
+        "R2_Train": 0.9841129708517078,
+        "R2_Val": 0.9753209996340602,
+        "MAE_Val": 1.1148912478492583,
+        "RMSE_Val": 1.4616169825679541
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "relu",
+            "hidden_layer_sizes": [
+                50,
+                50
+            ],
+            "learning_rate_init": 0.01
+        },
+        "R2_Train": 0.8931276394363925,
+        "R2_Val": 0.869725464066087,
+        "MAE_Val": 1.1866326721486933,
+        "RMSE_Val": 1.552409449907948
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "relu",
+            "hidden_layer_sizes": [
+                25,
+                50
+            ],
+            "learning_rate_init": 0.001
+        },
+        "R2_Train": 0.9827457761316744,
+        "R2_Val": 0.977863267404398,
+        "MAE_Val": 1.189376465376983,
+        "RMSE_Val": 1.5407328977497405
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "relu",
+            "hidden_layer_sizes": [
+                25,
+                50
+            ],
+            "learning_rate_init": 0.01
+        },
+        "R2_Train": 0.8733183344661765,
+        "R2_Val": 0.8620910920818352,
+        "MAE_Val": 3.0465489336339933,
+        "RMSE_Val": 3.8167864441971386
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "relu",
+            "hidden_layer_sizes": [
+                25,
+                15,
+                10
+            ],
+            "learning_rate_init": 0.001
+        },
+        "R2_Train": 0.9844146285859402,
+        "R2_Val": 0.9792681067183617,
+        "MAE_Val": 1.1444107493636324,
+        "RMSE_Val": 1.4882523655238968
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "relu",
+            "hidden_layer_sizes": [
+                25,
+                15,
+                10
+            ],
+            "learning_rate_init": 0.01
+        },
+        "R2_Train": 0.9328741155249117,
+        "R2_Val": 0.9268222780167346,
+        "MAE_Val": 1.229352237914031,
+        "RMSE_Val": 1.594713981658677
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "tanh",
+            "hidden_layer_sizes": [
+                50
+            ],
+            "learning_rate_init": 0.001
+        },
+        "R2_Train": 0.9861908914171968,
+        "R2_Val": 0.9764106120335085,
+        "MAE_Val": 1.0017019114473027,
+        "RMSE_Val": 1.2817173059901756
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "tanh",
+            "hidden_layer_sizes": [
+                50
+            ],
+            "learning_rate_init": 0.01
+        },
+        "R2_Train": 0.9879940468327908,
+        "R2_Val": 0.9783948995203143,
+        "MAE_Val": 1.16726591292675,
+        "RMSE_Val": 1.4989727257211551
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "tanh",
+            "hidden_layer_sizes": [
+                100
+            ],
+            "learning_rate_init": 0.001
+        },
+        "R2_Train": 0.9930420330598275,
+        "R2_Val": 0.9790571769244749,
+        "MAE_Val": 1.04925748186322,
+        "RMSE_Val": 1.3523542126086872
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "tanh",
+            "hidden_layer_sizes": [
+                100
+            ],
+            "learning_rate_init": 0.01
+        },
+        "R2_Train": 0.9924156312534873,
+        "R2_Val": 0.9773979981328311,
+        "MAE_Val": 1.1768645349223257,
+        "RMSE_Val": 1.5076913727483017
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "tanh",
+            "hidden_layer_sizes": [
+                50,
+                50
+            ],
+            "learning_rate_init": 0.001
+        },
+        "R2_Train": 0.9930686780601761,
+        "R2_Val": 0.9741699543150564,
+        "MAE_Val": 1.1098130644659023,
+        "RMSE_Val": 1.4487892731167884
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "tanh",
+            "hidden_layer_sizes": [
+                50,
+                50
+            ],
+            "learning_rate_init": 0.01
+        },
+        "R2_Train": 0.990915090928441,
+        "R2_Val": 0.9754482308940264,
+        "MAE_Val": 8.808764834640469,
+        "RMSE_Val": 10.375803927105803
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "tanh",
+            "hidden_layer_sizes": [
+                25,
+                50
+            ],
+            "learning_rate_init": 0.001
+        },
+        "R2_Train": 0.9877801658655615,
+        "R2_Val": 0.9789281448224587,
+        "MAE_Val": 0.9614105388139319,
+        "RMSE_Val": 1.2790187826531294
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "tanh",
+            "hidden_layer_sizes": [
+                25,
+                50
+            ],
+            "learning_rate_init": 0.01
+        },
+        "R2_Train": 0.9839940581805378,
+        "R2_Val": 0.976337796900488,
+        "MAE_Val": 1.1238762486594769,
+        "RMSE_Val": 1.4847555466300166
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "tanh",
+            "hidden_layer_sizes": [
+                25,
+                15,
+                10
+            ],
+            "learning_rate_init": 0.001
+        },
+        "R2_Train": 0.9863589170720953,
+        "R2_Val": 0.9773459455378699,
+        "MAE_Val": 1.1054459557839598,
+        "RMSE_Val": 1.4628480687623682
+    },
+    {
+        "Modelo": "MLP",
+        "Configuracao": {
+            "activation": "tanh",
+            "hidden_layer_sizes": [
+                25,
+                15,
+                10
+            ],
+            "learning_rate_init": 0.01
+        },
+        "R2_Train": 0.19650442626862247,
+        "R2_Val": 0.19382618229451204,
+        "MAE_Val": 0.9837062029640443,
+        "RMSE_Val": 1.3229567499066015
+    }
+]

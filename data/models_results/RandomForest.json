@@ -1,0 +1,578 @@
+[
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": null,
+            "min_samples_split": 2,
+            "n_estimators": 50
+        },
+        "R2_Train": 0.9871543736998967,
+        "R2_Val": 0.9121084531299316,
+        "MAE_Val": 2.1766131999999994,
+        "RMSE_Val": 2.8392427691763165
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": null,
+            "min_samples_split": 2,
+            "n_estimators": 60
+        },
+        "R2_Train": 0.9875058771174228,
+        "R2_Val": 0.9130950981588857,
+        "MAE_Val": 2.1616825,
+        "RMSE_Val": 2.8260147722494695
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": null,
+            "min_samples_split": 2,
+            "n_estimators": 70
+        },
+        "R2_Train": 0.9876263998410629,
+        "R2_Val": 0.9135102733152712,
+        "MAE_Val": 2.163180428571428,
+        "RMSE_Val": 2.829161990164549
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": null,
+            "min_samples_split": 2,
+            "n_estimators": 80
+        },
+        "R2_Train": 0.9877344213875121,
+        "R2_Val": 0.9134775823276221,
+        "MAE_Val": 2.153300875,
+        "RMSE_Val": 2.8160324415883635
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": null,
+            "min_samples_split": 2,
+            "n_estimators": 90
+        },
+        "R2_Train": 0.9878221621769452,
+        "R2_Val": 0.9137765587310981,
+        "MAE_Val": 2.146912111111111,
+        "RMSE_Val": 2.8107999604545593
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": null,
+            "min_samples_split": 2,
+            "n_estimators": 100
+        },
+        "R2_Train": 0.9878946456636962,
+        "R2_Val": 0.9138606755581882,
+        "MAE_Val": 2.1427484999999997,
+        "RMSE_Val": 2.809932745499435
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": null,
+            "min_samples_split": 5,
+            "n_estimators": 50
+        },
+        "R2_Train": 0.9838499213019455,
+        "R2_Val": 0.9117143058038132,
+        "MAE_Val": 2.1725746565029413,
+        "RMSE_Val": 2.8410299653814515
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": null,
+            "min_samples_split": 5,
+            "n_estimators": 60
+        },
+        "R2_Train": 0.9841858405666256,
+        "R2_Val": 0.9126352424023202,
+        "MAE_Val": 2.1580545041125547,
+        "RMSE_Val": 2.8266755023942407
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": null,
+            "min_samples_split": 5,
+            "n_estimators": 70
+        },
+        "R2_Train": 0.9843197483928853,
+        "R2_Val": 0.9129338047955953,
+        "MAE_Val": 2.1597746318039106,
+        "RMSE_Val": 2.8319856360309865
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": null,
+            "min_samples_split": 5,
+            "n_estimators": 80
+        },
+        "R2_Train": 0.9843922288409818,
+        "R2_Val": 0.9128586069902149,
+        "MAE_Val": 2.1530658943265077,
+        "RMSE_Val": 2.824205222361915
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": null,
+            "min_samples_split": 5,
+            "n_estimators": 90
+        },
+        "R2_Train": 0.9844737043538908,
+        "R2_Val": 0.9131550109032284,
+        "MAE_Val": 2.1494305139775363,
+        "RMSE_Val": 2.820926826332197
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": null,
+            "min_samples_split": 5,
+            "n_estimators": 100
+        },
+        "R2_Train": 0.9845445546690478,
+        "R2_Val": 0.9132448593533967,
+        "MAE_Val": 2.1481872951073937,
+        "RMSE_Val": 2.821308511217084
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 5,
+            "min_samples_split": 2,
+            "n_estimators": 50
+        },
+        "R2_Train": 0.8421864159539917,
+        "R2_Val": 0.8264097937886894,
+        "MAE_Val": 3.2702973667373945,
+        "RMSE_Val": 4.315440869441616
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 5,
+            "min_samples_split": 2,
+            "n_estimators": 60
+        },
+        "R2_Train": 0.8425214334706214,
+        "R2_Val": 0.8269206033442837,
+        "MAE_Val": 3.268126034183394,
+        "RMSE_Val": 4.311605500428111
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 5,
+            "min_samples_split": 2,
+            "n_estimators": 70
+        },
+        "R2_Train": 0.8425259891037301,
+        "R2_Val": 0.8269100955030034,
+        "MAE_Val": 3.2680948202736637,
+        "RMSE_Val": 4.3086357609243375
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 5,
+            "min_samples_split": 2,
+            "n_estimators": 80
+        },
+        "R2_Train": 0.8424922992830078,
+        "R2_Val": 0.826812694695945,
+        "MAE_Val": 3.270981662479142,
+        "RMSE_Val": 4.309586284281865
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 5,
+            "min_samples_split": 2,
+            "n_estimators": 90
+        },
+        "R2_Train": 0.8425764258157341,
+        "R2_Val": 0.8268990748852807,
+        "MAE_Val": 3.2678391188282117,
+        "RMSE_Val": 4.307605180193585
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 5,
+            "min_samples_split": 2,
+            "n_estimators": 100
+        },
+        "R2_Train": 0.8426043487087247,
+        "R2_Val": 0.8269027518143567,
+        "MAE_Val": 3.269304589270838,
+        "RMSE_Val": 4.3083287262000205
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 5,
+            "min_samples_split": 5,
+            "n_estimators": 50
+        },
+        "R2_Train": 0.8421864159539917,
+        "R2_Val": 0.8264097937886894,
+        "MAE_Val": 3.2702973667373945,
+        "RMSE_Val": 4.315440869441616
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 5,
+            "min_samples_split": 5,
+            "n_estimators": 60
+        },
+        "R2_Train": 0.8425214334706214,
+        "R2_Val": 0.8269206033442837,
+        "MAE_Val": 3.268126034183394,
+        "RMSE_Val": 4.311605500428111
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 5,
+            "min_samples_split": 5,
+            "n_estimators": 70
+        },
+        "R2_Train": 0.8425259891037301,
+        "R2_Val": 0.8269100955030034,
+        "MAE_Val": 3.2680948202736637,
+        "RMSE_Val": 4.3086357609243375
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 5,
+            "min_samples_split": 5,
+            "n_estimators": 80
+        },
+        "R2_Train": 0.8424922992830078,
+        "R2_Val": 0.826812694695945,
+        "MAE_Val": 3.270981662479142,
+        "RMSE_Val": 4.309586284281865
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 5,
+            "min_samples_split": 5,
+            "n_estimators": 90
+        },
+        "R2_Train": 0.8425764258157341,
+        "R2_Val": 0.8268990748852807,
+        "MAE_Val": 3.2678391188282117,
+        "RMSE_Val": 4.307605180193585
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 5,
+            "min_samples_split": 5,
+            "n_estimators": 100
+        },
+        "R2_Train": 0.8426043487087247,
+        "R2_Val": 0.8269027518143567,
+        "MAE_Val": 3.269304589270838,
+        "RMSE_Val": 4.3083287262000205
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 10,
+            "min_samples_split": 2,
+            "n_estimators": 50
+        },
+        "R2_Train": 0.974217957466673,
+        "R2_Val": 0.9080433720857312,
+        "MAE_Val": 2.2766028340865296,
+        "RMSE_Val": 2.9743354127320916
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 10,
+            "min_samples_split": 2,
+            "n_estimators": 60
+        },
+        "R2_Train": 0.9745110270801867,
+        "R2_Val": 0.9087050309695587,
+        "MAE_Val": 2.2576159844537873,
+        "RMSE_Val": 2.955044438112545
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 10,
+            "min_samples_split": 2,
+            "n_estimators": 70
+        },
+        "R2_Train": 0.9746098776859627,
+        "R2_Val": 0.909079767618167,
+        "MAE_Val": 2.2516772689224194,
+        "RMSE_Val": 2.951343241911296
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 10,
+            "min_samples_split": 2,
+            "n_estimators": 80
+        },
+        "R2_Train": 0.9746876556002041,
+        "R2_Val": 0.9089215474090202,
+        "MAE_Val": 2.24220696649479,
+        "RMSE_Val": 2.9425038960711176
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 10,
+            "min_samples_split": 2,
+            "n_estimators": 90
+        },
+        "R2_Train": 0.974726179583803,
+        "R2_Val": 0.909194057209061,
+        "MAE_Val": 2.237773492396404,
+        "RMSE_Val": 2.936958720224213
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 10,
+            "min_samples_split": 2,
+            "n_estimators": 100
+        },
+        "R2_Train": 0.9747359489552606,
+        "R2_Val": 0.9092540805064414,
+        "MAE_Val": 2.23809945237798,
+        "RMSE_Val": 2.9377088707169765
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 10,
+            "min_samples_split": 5,
+            "n_estimators": 50
+        },
+        "R2_Train": 0.9727265090665146,
+        "R2_Val": 0.9080059013376539,
+        "MAE_Val": 2.276908143185439,
+        "RMSE_Val": 2.972582939741887
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 10,
+            "min_samples_split": 5,
+            "n_estimators": 60
+        },
+        "R2_Train": 0.9730279001106134,
+        "R2_Val": 0.9087088501853673,
+        "MAE_Val": 2.2572536977335322,
+        "RMSE_Val": 2.953715452476437
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 10,
+            "min_samples_split": 5,
+            "n_estimators": 70
+        },
+        "R2_Train": 0.9730997248985913,
+        "R2_Val": 0.909067416063816,
+        "MAE_Val": 2.2517976491803036,
+        "RMSE_Val": 2.9524185704202295
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 10,
+            "min_samples_split": 5,
+            "n_estimators": 80
+        },
+        "R2_Train": 0.9731732507097123,
+        "R2_Val": 0.9089483317874709,
+        "MAE_Val": 2.242117174053893,
+        "RMSE_Val": 2.9434096489495376
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 10,
+            "min_samples_split": 5,
+            "n_estimators": 90
+        },
+        "R2_Train": 0.9732197847668096,
+        "R2_Val": 0.9091333586079909,
+        "MAE_Val": 2.239676477869708,
+        "RMSE_Val": 2.9393371586776436
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 10,
+            "min_samples_split": 5,
+            "n_estimators": 100
+        },
+        "R2_Train": 0.9732429019254857,
+        "R2_Val": 0.9091210039428107,
+        "MAE_Val": 2.2398667889446204,
+        "RMSE_Val": 2.9410031200782596
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 15,
+            "min_samples_split": 2,
+            "n_estimators": 50
+        },
+        "R2_Train": 0.987113826884591,
+        "R2_Val": 0.9121309425071732,
+        "MAE_Val": 2.1761345938311125,
+        "RMSE_Val": 2.8414799513048927
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 15,
+            "min_samples_split": 2,
+            "n_estimators": 60
+        },
+        "R2_Train": 0.9874504067063309,
+        "R2_Val": 0.912988310278879,
+        "MAE_Val": 2.1610269883940108,
+        "RMSE_Val": 2.8279706373414895
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 15,
+            "min_samples_split": 2,
+            "n_estimators": 70
+        },
+        "R2_Train": 0.9875763797173774,
+        "R2_Val": 0.9133698473579583,
+        "MAE_Val": 2.162015613034837,
+        "RMSE_Val": 2.830400325358125
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 15,
+            "min_samples_split": 2,
+            "n_estimators": 80
+        },
+        "R2_Train": 0.9876843443610017,
+        "R2_Val": 0.9133514853321789,
+        "MAE_Val": 2.156242679254571,
+        "RMSE_Val": 2.8228290426847047
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 15,
+            "min_samples_split": 2,
+            "n_estimators": 90
+        },
+        "R2_Train": 0.9877622208122571,
+        "R2_Val": 0.9136766098527284,
+        "MAE_Val": 2.14947252097768,
+        "RMSE_Val": 2.817592659005651
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 15,
+            "min_samples_split": 2,
+            "n_estimators": 100
+        },
+        "R2_Train": 0.9878332697187365,
+        "R2_Val": 0.9138227857316603,
+        "MAE_Val": 2.146351898310134,
+        "RMSE_Val": 2.8176704133083175
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 15,
+            "min_samples_split": 5,
+            "n_estimators": 50
+        },
+        "R2_Train": 0.9838107562845373,
+        "R2_Val": 0.9118622516580811,
+        "MAE_Val": 2.1790274799048395,
+        "RMSE_Val": 2.8425067212769033
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 15,
+            "min_samples_split": 5,
+            "n_estimators": 60
+        },
+        "R2_Train": 0.9841576728405442,
+        "R2_Val": 0.9126868001583605,
+        "MAE_Val": 2.1607981510792222,
+        "RMSE_Val": 2.8252486366875935
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 15,
+            "min_samples_split": 5,
+            "n_estimators": 70
+        },
+        "R2_Train": 0.9842641159523632,
+        "R2_Val": 0.9130086229419104,
+        "MAE_Val": 2.1608209448078255,
+        "RMSE_Val": 2.8281290966746955
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 15,
+            "min_samples_split": 5,
+            "n_estimators": 80
+        },
+        "R2_Train": 0.9843303894349509,
+        "R2_Val": 0.9129503778031413,
+        "MAE_Val": 2.153108550854016,
+        "RMSE_Val": 2.8210113810919584
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 15,
+            "min_samples_split": 5,
+            "n_estimators": 90
+        },
+        "R2_Train": 0.9844006440261723,
+        "R2_Val": 0.9131761091077512,
+        "MAE_Val": 2.1507751960993384,
+        "RMSE_Val": 2.818466252576992
+    },
+    {
+        "Modelo": "RandomForest",
+        "Configuracao": {
+            "max_depth": 15,
+            "min_samples_split": 5,
+            "n_estimators": 100
+        },
+        "R2_Train": 0.9844627821760724,
+        "R2_Val": 0.9132792290250018,
+        "MAE_Val": 2.150216338502466,
+        "RMSE_Val": 2.8210137435634763
+    }
+]

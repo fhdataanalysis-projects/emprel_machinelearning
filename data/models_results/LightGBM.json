@@ -1,0 +1,1874 @@
+[
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": -1,
+            "n_estimators": 50,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.07863984970205704,
+        "R2_Val": 0.07627623554219605,
+        "MAE_Val": 8.444977597189268,
+        "RMSE_Val": 9.962349386653854
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": -1,
+            "n_estimators": 50,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.08096056876719124,
+        "R2_Val": 0.07818582041409874,
+        "MAE_Val": 8.436920501271612,
+        "RMSE_Val": 9.951611747294228
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": -1,
+            "n_estimators": 100,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.14991734737548057,
+        "R2_Val": 0.14670879972143364,
+        "MAE_Val": 8.1010181542308,
+        "RMSE_Val": 9.57165662365059
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": -1,
+            "n_estimators": 100,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.15434347614552707,
+        "R2_Val": 0.15027470072627766,
+        "MAE_Val": 8.086087277667168,
+        "RMSE_Val": 9.55137982241685
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": -1,
+            "n_estimators": 150,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.2146037278916865,
+        "R2_Val": 0.2105769474637104,
+        "MAE_Val": 7.775667977585021,
+        "RMSE_Val": 9.201159666471684
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": -1,
+            "n_estimators": 150,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.2209494520745138,
+        "R2_Val": 0.21570367474923513,
+        "MAE_Val": 7.752245678119399,
+        "RMSE_Val": 9.170902978205996
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": -1,
+            "n_estimators": 200,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.2733348715864586,
+        "R2_Val": 0.26850322443226826,
+        "MAE_Val": 7.469126291017599,
+        "RMSE_Val": 8.851130462072165
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": -1,
+            "n_estimators": 200,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.2814436749315637,
+        "R2_Val": 0.27509869170006057,
+        "MAE_Val": 7.438980906064369,
+        "RMSE_Val": 8.812544870025935
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": -1,
+            "n_estimators": 250,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.3266966287455261,
+        "R2_Val": 0.32108518804176267,
+        "MAE_Val": 7.178104495162723,
+        "RMSE_Val": 8.52101994406161
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": -1,
+            "n_estimators": 250,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.33641079622946274,
+        "R2_Val": 0.3288942806148432,
+        "MAE_Val": 7.143093238437863,
+        "RMSE_Val": 8.47554650399069
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": -1,
+            "n_estimators": 300,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.37525634775342376,
+        "R2_Val": 0.36889042131488814,
+        "MAE_Val": 6.905504979137877,
+        "RMSE_Val": 8.210891865304037
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": -1,
+            "n_estimators": 300,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.38639262460948476,
+        "R2_Val": 0.3777977198277339,
+        "MAE_Val": 6.8649739854929015,
+        "RMSE_Val": 8.157853081529336
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 50,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.07740261042842933,
+        "R2_Val": 0.07518752459488479,
+        "MAE_Val": 8.447724796825817,
+        "RMSE_Val": 9.966208221937844
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 50,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.07744020021471384,
+        "R2_Val": 0.07523786639526456,
+        "MAE_Val": 8.447636727547211,
+        "RMSE_Val": 9.96601246989007
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.14752667022908122,
+        "R2_Val": 0.14461346690776214,
+        "MAE_Val": 8.107290712976896,
+        "RMSE_Val": 9.580092840062056
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.14759762649905403,
+        "R2_Val": 0.14469819954487595,
+        "MAE_Val": 8.107270542375158,
+        "RMSE_Val": 9.579883357098307
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.21111443069150093,
+        "R2_Val": 0.20749442371178645,
+        "MAE_Val": 7.787134198071782,
+        "RMSE_Val": 9.21634784160105
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.21121530360282675,
+        "R2_Val": 0.20760531665324758,
+        "MAE_Val": 7.7872731461360445,
+        "RMSE_Val": 9.216089628127706
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.26882552276187616,
+        "R2_Val": 0.26453656178563556,
+        "MAE_Val": 7.486828204986216,
+        "RMSE_Val": 8.87373366690313
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.26895204635773406,
+        "R2_Val": 0.2646719312365115,
+        "MAE_Val": 7.487023269532399,
+        "RMSE_Val": 8.87345816640265
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.3212401640902618,
+        "R2_Val": 0.31628852184162276,
+        "MAE_Val": 7.204946441670284,
+        "RMSE_Val": 8.552241163887382
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.3213886613887357,
+        "R2_Val": 0.3164389418000222,
+        "MAE_Val": 7.205161222175685,
+        "RMSE_Val": 8.551997076673494
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.36890734041182494,
+        "R2_Val": 0.36338615651126827,
+        "MAE_Val": 6.941257316327424,
+        "RMSE_Val": 8.25013400746815
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.36907416797065984,
+        "R2_Val": 0.3635417286911382,
+        "MAE_Val": 6.941586051967903,
+        "RMSE_Val": 8.24999859102504
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 50,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.07863984970205704,
+        "R2_Val": 0.07627623554219605,
+        "MAE_Val": 8.444977597189268,
+        "RMSE_Val": 9.962349386653854
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 50,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.08096056876719124,
+        "R2_Val": 0.07818582041409874,
+        "MAE_Val": 8.436920501271612,
+        "RMSE_Val": 9.951611747294228
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.14991734737548057,
+        "R2_Val": 0.14670879972143364,
+        "MAE_Val": 8.1010181542308,
+        "RMSE_Val": 9.57165662365059
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.15434347614552707,
+        "R2_Val": 0.15027470072627766,
+        "MAE_Val": 8.086087277667168,
+        "RMSE_Val": 9.55137982241685
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.2146037278916865,
+        "R2_Val": 0.2105769474637104,
+        "MAE_Val": 7.775667977585021,
+        "RMSE_Val": 9.201159666471684
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.2209494520745138,
+        "R2_Val": 0.21570367474923513,
+        "MAE_Val": 7.752245678119399,
+        "RMSE_Val": 9.170902978205996
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.2733348715864586,
+        "R2_Val": 0.26850322443226826,
+        "MAE_Val": 7.469126291017599,
+        "RMSE_Val": 8.851130462072165
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.2814436749315637,
+        "R2_Val": 0.27509869170006057,
+        "MAE_Val": 7.438980906064369,
+        "RMSE_Val": 8.812544870025935
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.3266966287455261,
+        "R2_Val": 0.32108518804176267,
+        "MAE_Val": 7.178104495162723,
+        "RMSE_Val": 8.52101994406161
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.33641079622946274,
+        "R2_Val": 0.3288942806148432,
+        "MAE_Val": 7.143093238437863,
+        "RMSE_Val": 8.47554650399069
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.37525634775342376,
+        "R2_Val": 0.36889042131488814,
+        "MAE_Val": 6.905504979137877,
+        "RMSE_Val": 8.210891865304037
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.38639262460948476,
+        "R2_Val": 0.3777977198277339,
+        "MAE_Val": 6.8649739854929015,
+        "RMSE_Val": 8.157853081529336
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": -1,
+            "n_estimators": 50,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.5314896474871327,
+        "R2_Val": 0.5223635941237306,
+        "MAE_Val": 5.954043343248839,
+        "RMSE_Val": 7.129552344201596
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": -1,
+            "n_estimators": 50,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.5471806689337788,
+        "R2_Val": 0.5347081454824181,
+        "MAE_Val": 5.878545491993191,
+        "RMSE_Val": 7.04297551285711
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": -1,
+            "n_estimators": 100,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.7455144733701102,
+        "R2_Val": 0.7308270646419506,
+        "MAE_Val": 4.341921318023216,
+        "RMSE_Val": 5.328366028587066
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": -1,
+            "n_estimators": 100,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.7669453626291002,
+        "R2_Val": 0.746929398815449,
+        "MAE_Val": 4.215729042083097,
+        "RMSE_Val": 5.162020783798719
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": -1,
+            "n_estimators": 150,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.8435561074243392,
+        "R2_Val": 0.8251847374060534,
+        "MAE_Val": 3.421805792711542,
+        "RMSE_Val": 4.269139276849629
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": -1,
+            "n_estimators": 150,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.8651353566361047,
+        "R2_Val": 0.8409056030542708,
+        "MAE_Val": 3.252932081609568,
+        "RMSE_Val": 4.058713103794894
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": -1,
+            "n_estimators": 200,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.8946315478775583,
+        "R2_Val": 0.8737279953579018,
+        "MAE_Val": 2.863358786625934,
+        "RMSE_Val": 3.6086021965331803
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": -1,
+            "n_estimators": 200,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9147726350206613,
+        "R2_Val": 0.8882690464943235,
+        "MAE_Val": 2.6714404858327487,
+        "RMSE_Val": 3.370901120785781
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": -1,
+            "n_estimators": 250,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9250289577745241,
+        "R2_Val": 0.9031625342665309,
+        "MAE_Val": 2.4706251725278627,
+        "RMSE_Val": 3.137654550818874
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": -1,
+            "n_estimators": 250,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9427704281509367,
+        "R2_Val": 0.9158166114452652,
+        "MAE_Val": 2.2889787454992785,
+        "RMSE_Val": 2.9062100103728454
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": -1,
+            "n_estimators": 300,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9453326440443014,
+        "R2_Val": 0.9234056690973704,
+        "MAE_Val": 2.176586603083738,
+        "RMSE_Val": 2.7759088587399723
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": -1,
+            "n_estimators": 300,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9602407865117148,
+        "R2_Val": 0.9337618227218887,
+        "MAE_Val": 1.9942452116075755,
+        "RMSE_Val": 2.554321262344863
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 50,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.5221711612219362,
+        "R2_Val": 0.5145576531120383,
+        "MAE_Val": 6.0164149129403555,
+        "RMSE_Val": 7.196494708514256
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 50,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.5223931125912327,
+        "R2_Val": 0.5147285630950652,
+        "MAE_Val": 6.0159335205962945,
+        "RMSE_Val": 7.195608192980257
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.7315341700295772,
+        "R2_Val": 0.719676901812844,
+        "MAE_Val": 4.43205366259352,
+        "RMSE_Val": 5.441351509175756
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.7317776554368292,
+        "R2_Val": 0.7198859059117186,
+        "MAE_Val": 4.432612420606763,
+        "RMSE_Val": 5.441221267312421
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.8264879515796295,
+        "R2_Val": 0.8114386907247066,
+        "MAE_Val": 3.5393457967863675,
+        "RMSE_Val": 4.44846752483217
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.8266986267185062,
+        "R2_Val": 0.8116235391873572,
+        "MAE_Val": 3.539039399706776,
+        "RMSE_Val": 4.447447995958779
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.8793791117804585,
+        "R2_Val": 0.8610666788203266,
+        "MAE_Val": 2.9841652208532032,
+        "RMSE_Val": 3.7991598867790115
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.8795947946406043,
+        "R2_Val": 0.8611824403935635,
+        "MAE_Val": 2.9833088937853005,
+        "RMSE_Val": 3.7972763135447205
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9115495182951902,
+        "R2_Val": 0.8920074860390994,
+        "MAE_Val": 2.6018691233386724,
+        "RMSE_Val": 3.33981314743029
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9117497858883375,
+        "R2_Val": 0.8920853702149524,
+        "MAE_Val": 2.597053194470698,
+        "RMSE_Val": 3.3352745975668356
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9336745444277688,
+        "R2_Val": 0.9136834812446949,
+        "MAE_Val": 2.30734840087911,
+        "RMSE_Val": 2.9788063707713635
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9338153100452669,
+        "R2_Val": 0.9136973150304805,
+        "MAE_Val": 2.3055459009644728,
+        "RMSE_Val": 2.9751176820198717
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 50,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.5314896474871327,
+        "R2_Val": 0.5223635941237306,
+        "MAE_Val": 5.954043343248839,
+        "RMSE_Val": 7.129552344201596
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 50,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.5471806689337788,
+        "R2_Val": 0.5347081454824181,
+        "MAE_Val": 5.878545491993191,
+        "RMSE_Val": 7.04297551285711
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.7455144733701102,
+        "R2_Val": 0.7308270646419506,
+        "MAE_Val": 4.341921318023216,
+        "RMSE_Val": 5.328366028587066
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.7669453626291002,
+        "R2_Val": 0.746929398815449,
+        "MAE_Val": 4.215729042083097,
+        "RMSE_Val": 5.162020783798719
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.8435561074243392,
+        "R2_Val": 0.8251847374060534,
+        "MAE_Val": 3.421805792711542,
+        "RMSE_Val": 4.269139276849629
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.8651353566361047,
+        "R2_Val": 0.8409056030542708,
+        "MAE_Val": 3.252932081609568,
+        "RMSE_Val": 4.058713103794894
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.8946315478775583,
+        "R2_Val": 0.8737279953579018,
+        "MAE_Val": 2.863358786625934,
+        "RMSE_Val": 3.6086021965331803
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9147771389010828,
+        "R2_Val": 0.8882565889832629,
+        "MAE_Val": 2.6701506330951617,
+        "RMSE_Val": 3.3695923249300828
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9250289577745241,
+        "R2_Val": 0.9031625342665309,
+        "MAE_Val": 2.4706251725278627,
+        "RMSE_Val": 3.137654550818874
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.942777648636428,
+        "R2_Val": 0.9158010720113408,
+        "MAE_Val": 2.2859603481043096,
+        "RMSE_Val": 2.902882299479069
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9453326440443014,
+        "R2_Val": 0.9234056690973704,
+        "MAE_Val": 2.176586603083738,
+        "RMSE_Val": 2.7759088587399723
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9602542665391283,
+        "R2_Val": 0.9337376219774389,
+        "MAE_Val": 1.9907933647372817,
+        "RMSE_Val": 2.5526103666491915
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": -1,
+            "n_estimators": 50,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9819564253558715,
+        "R2_Val": 0.9637758836918249,
+        "MAE_Val": 1.4031210820253672,
+        "RMSE_Val": 1.8224748119316023
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": -1,
+            "n_estimators": 50,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9885791498233777,
+        "R2_Val": 0.9674641773109951,
+        "MAE_Val": 1.3725916066677801,
+        "RMSE_Val": 1.7784370096246631
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": -1,
+            "n_estimators": 100,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9958349152841677,
+        "R2_Val": 0.9840471358701546,
+        "MAE_Val": 0.8709325067231393,
+        "RMSE_Val": 1.1642732449221171
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": -1,
+            "n_estimators": 100,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9973786812843572,
+        "R2_Val": 0.9822609852164368,
+        "MAE_Val": 0.9603440373379959,
+        "RMSE_Val": 1.2732295248771717
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": -1,
+            "n_estimators": 150,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9976626865195926,
+        "R2_Val": 0.9871023405295075,
+        "MAE_Val": 0.7756088954276025,
+        "RMSE_Val": 1.0345927703706157
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": -1,
+            "n_estimators": 150,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9986936207184787,
+        "R2_Val": 0.9841400052507625,
+        "MAE_Val": 0.9008185396619914,
+        "RMSE_Val": 1.195573130148114
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": -1,
+            "n_estimators": 200,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9984330450821861,
+        "R2_Val": 0.9878706371415718,
+        "MAE_Val": 0.7511385057301464,
+        "RMSE_Val": 1.0026582702993665
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": -1,
+            "n_estimators": 200,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9992373404959375,
+        "R2_Val": 0.9845997667861347,
+        "MAE_Val": 0.8865469309764411,
+        "RMSE_Val": 1.175080786752575
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": -1,
+            "n_estimators": 250,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9988859061814693,
+        "R2_Val": 0.9882097269064161,
+        "MAE_Val": 0.7438548065999827,
+        "RMSE_Val": 0.9917713922301035
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": -1,
+            "n_estimators": 250,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9995314173350696,
+        "R2_Val": 0.9847422895383751,
+        "MAE_Val": 0.880608228428989,
+        "RMSE_Val": 1.1672657338183205
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": -1,
+            "n_estimators": 300,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9991734256032181,
+        "R2_Val": 0.9883759312421695,
+        "MAE_Val": 0.7397056945255431,
+        "RMSE_Val": 0.9857946652044729
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": -1,
+            "n_estimators": 300,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9997001959687797,
+        "R2_Val": 0.9848392132649281,
+        "MAE_Val": 0.8764147949550716,
+        "RMSE_Val": 1.1621083969370691
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 50,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9762815227186283,
+        "R2_Val": 0.9582012928406975,
+        "MAE_Val": 1.5451905330385363,
+        "RMSE_Val": 2.036183519875947
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 50,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9763792808979617,
+        "R2_Val": 0.9584400069367399,
+        "MAE_Val": 1.5465709761650015,
+        "RMSE_Val": 2.0461737804706535
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9945283244349028,
+        "R2_Val": 0.9827591698326378,
+        "MAE_Val": 0.9396988415693837,
+        "RMSE_Val": 1.2508303939030168
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9945692120567097,
+        "R2_Val": 0.9831299893399145,
+        "MAE_Val": 0.9396397869367724,
+        "RMSE_Val": 1.2573735468266571
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9970708337215584,
+        "R2_Val": 0.9875220507474756,
+        "MAE_Val": 0.7823959383560002,
+        "RMSE_Val": 1.0307966852277441
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.997109828049551,
+        "R2_Val": 0.9878342578693957,
+        "MAE_Val": 0.7862567030347541,
+        "RMSE_Val": 1.0446840022518784
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9979288044048331,
+        "R2_Val": 0.9889373263651429,
+        "MAE_Val": 0.7297162732148988,
+        "RMSE_Val": 0.9623182626906511
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9979773303475383,
+        "R2_Val": 0.9892549715977671,
+        "MAE_Val": 0.7351336909812309,
+        "RMSE_Val": 0.9768632363263593
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9983709866680508,
+        "R2_Val": 0.9895302087075987,
+        "MAE_Val": 0.7080950291593796,
+        "RMSE_Val": 0.9341455729150103
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9983933646470614,
+        "R2_Val": 0.9897910698415746,
+        "MAE_Val": 0.7139721789883128,
+        "RMSE_Val": 0.948471833398006
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9986504891773903,
+        "R2_Val": 0.9898155238155407,
+        "MAE_Val": 0.6942711028579777,
+        "RMSE_Val": 0.9159652114181114
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.998674321561227,
+        "R2_Val": 0.9900862046400857,
+        "MAE_Val": 0.7055237119842206,
+        "RMSE_Val": 0.9370303675636682
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 50,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9819564253558715,
+        "R2_Val": 0.9637758836918249,
+        "MAE_Val": 1.4031210820253672,
+        "RMSE_Val": 1.8224748119316023
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 50,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9885542360263152,
+        "R2_Val": 0.9673186010152452,
+        "MAE_Val": 1.3725916066677801,
+        "RMSE_Val": 1.7784370096246631
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9958391474352333,
+        "R2_Val": 0.9840562269277179,
+        "MAE_Val": 0.8709325067231393,
+        "RMSE_Val": 1.1642732449221171
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9973819439018238,
+        "R2_Val": 0.9821758303803673,
+        "MAE_Val": 0.9582222440526343,
+        "RMSE_Val": 1.2662149174370312
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9976703909629216,
+        "R2_Val": 0.9871725251053197,
+        "MAE_Val": 0.7703205193323979,
+        "RMSE_Val": 1.0334624213488564
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9986803600199137,
+        "R2_Val": 0.984056735984802,
+        "MAE_Val": 0.9006461877149995,
+        "RMSE_Val": 1.1916874262231876
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9984260096998977,
+        "R2_Val": 0.9879425967220371,
+        "MAE_Val": 0.7463156369925191,
+        "RMSE_Val": 1.000423114789523
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9992138829455619,
+        "R2_Val": 0.984562420951683,
+        "MAE_Val": 0.8847670902815553,
+        "RMSE_Val": 1.1699841727393605
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9988669545105843,
+        "R2_Val": 0.9882810994826754,
+        "MAE_Val": 0.7397247765921786,
+        "RMSE_Val": 0.991342566525141
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.99950454831905,
+        "R2_Val": 0.984731245991852,
+        "MAE_Val": 0.8776039848770089,
+        "RMSE_Val": 1.16092639241207
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9991558044779305,
+        "R2_Val": 0.9884466451696692,
+        "MAE_Val": 0.7367943048506208,
+        "RMSE_Val": 0.9861835090216284
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9996747600671547,
+        "R2_Val": 0.9848191873013061,
+        "MAE_Val": 0.8771754207892757,
+        "RMSE_Val": 1.1601267912945545
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": -1,
+            "n_estimators": 50,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9931068563044093,
+        "R2_Val": 0.9126364830154623,
+        "MAE_Val": 2.0714099624758493,
+        "RMSE_Val": 2.6600866361175464
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": -1,
+            "n_estimators": 50,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9976336917162332,
+        "R2_Val": 0.8932627594458804,
+        "MAE_Val": 2.476900626239449,
+        "RMSE_Val": 3.191768595044572
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": -1,
+            "n_estimators": 100,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9988852793987663,
+        "R2_Val": 0.9083486236869586,
+        "MAE_Val": 2.1888769674888677,
+        "RMSE_Val": 2.779280051580446
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": -1,
+            "n_estimators": 100,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.999878111124645,
+        "R2_Val": 0.8919260204239998,
+        "MAE_Val": 2.5500605539450083,
+        "RMSE_Val": 3.2921989494888586
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": -1,
+            "n_estimators": 150,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9998035468464403,
+        "R2_Val": 0.9075382299227629,
+        "MAE_Val": 2.226802579126943,
+        "RMSE_Val": 2.825250802979136
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": -1,
+            "n_estimators": 150,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9999939227621033,
+        "R2_Val": 0.8918074009238112,
+        "MAE_Val": 2.5470805152551113,
+        "RMSE_Val": 3.3004057585178006
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": -1,
+            "n_estimators": 200,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9999653669559294,
+        "R2_Val": 0.9074553213106604,
+        "MAE_Val": 2.2283689441865526,
+        "RMSE_Val": 2.824223511081955
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": -1,
+            "n_estimators": 200,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9999996907217138,
+        "R2_Val": 0.891785730290445,
+        "MAE_Val": 2.5496764478626943,
+        "RMSE_Val": 3.3031468582913686
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": -1,
+            "n_estimators": 250,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.99999378775839,
+        "R2_Val": 0.9073633427582932,
+        "MAE_Val": 2.232867074336805,
+        "RMSE_Val": 2.830583717335311
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": -1,
+            "n_estimators": 250,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9999999839119633,
+        "R2_Val": 0.8917894996513134,
+        "MAE_Val": 2.5506226452743146,
+        "RMSE_Val": 3.304228105206056
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": -1,
+            "n_estimators": 300,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9999989052293137,
+        "R2_Val": 0.9073701713302039,
+        "MAE_Val": 2.2298121973231195,
+        "RMSE_Val": 2.8282926215756183
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": -1,
+            "n_estimators": 300,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9999999991312425,
+        "R2_Val": 0.8917895352340605,
+        "MAE_Val": 2.5503203253849898,
+        "RMSE_Val": 3.3038316646509402
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 5,
+            "n_estimators": 50,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9889115977039026,
+        "R2_Val": 0.9347238933099222,
+        "MAE_Val": 1.69451419879874,
+        "RMSE_Val": 2.1619857415269057
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 5,
+            "n_estimators": 50,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9888595870246195,
+        "R2_Val": 0.936670353498253,
+        "MAE_Val": 1.7065663740952268,
+        "RMSE_Val": 2.19802313805314
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.996192025016183,
+        "R2_Val": 0.9303697198581735,
+        "MAE_Val": 1.789144780292327,
+        "RMSE_Val": 2.260657952620353
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9961582388026153,
+        "R2_Val": 0.9331437310535652,
+        "MAE_Val": 1.7491027607880443,
+        "RMSE_Val": 2.2427711080761488
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9985766059541327,
+        "R2_Val": 0.9282890779287248,
+        "MAE_Val": 1.8112087190775843,
+        "RMSE_Val": 2.3032841214196096
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9985680906190018,
+        "R2_Val": 0.9314683640805749,
+        "MAE_Val": 1.7773645589438134,
+        "RMSE_Val": 2.2789270972695252
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9994741379557712,
+        "R2_Val": 0.9275824817133685,
+        "MAE_Val": 1.8320728019298653,
+        "RMSE_Val": 2.3317773306394143
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9994731669670227,
+        "R2_Val": 0.9310104695240607,
+        "MAE_Val": 1.7985818710510253,
+        "RMSE_Val": 2.306709066250189
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9998015396908955,
+        "R2_Val": 0.9270781031963103,
+        "MAE_Val": 1.85737327592608,
+        "RMSE_Val": 2.347571917283535
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9998043806072108,
+        "R2_Val": 0.9306772340357916,
+        "MAE_Val": 1.8116866575153534,
+        "RMSE_Val": 2.319087271000986
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9999230151980456,
+        "R2_Val": 0.927021573246828,
+        "MAE_Val": 1.8603601247095352,
+        "RMSE_Val": 2.3505683034609253
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9999239472396824,
+        "R2_Val": 0.9306052470574663,
+        "MAE_Val": 1.821468955992461,
+        "RMSE_Val": 2.330112449896211
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 10,
+            "n_estimators": 50,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9930923904385601,
+        "R2_Val": 0.9134602350855667,
+        "MAE_Val": 2.077150707678538,
+        "RMSE_Val": 2.633481155847373
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 10,
+            "n_estimators": 50,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9974765757959784,
+        "R2_Val": 0.8946395303030235,
+        "MAE_Val": 2.586647950973419,
+        "RMSE_Val": 3.308405302514463
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9988056075049009,
+        "R2_Val": 0.909041454862721,
+        "MAE_Val": 2.14499482475436,
+        "RMSE_Val": 2.7435267588596948
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9998634099931778,
+        "R2_Val": 0.8928693027468171,
+        "MAE_Val": 2.6144013235924106,
+        "RMSE_Val": 3.345251986191681
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.999787685916614,
+        "R2_Val": 0.9083314083069265,
+        "MAE_Val": 2.153675638840984,
+        "RMSE_Val": 2.75215555804606
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9999922276581955,
+        "R2_Val": 0.8928962480446649,
+        "MAE_Val": 2.610686844520873,
+        "RMSE_Val": 3.352955020967977
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9999618090941146,
+        "R2_Val": 0.9081564313417863,
+        "MAE_Val": 2.160424889880178,
+        "RMSE_Val": 2.7592375624345973
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9999995421618564,
+        "R2_Val": 0.892853754964338,
+        "MAE_Val": 2.6132202435572527,
+        "RMSE_Val": 3.35638224478335
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9999930456169238,
+        "R2_Val": 0.9081009721811883,
+        "MAE_Val": 2.1624511636782144,
+        "RMSE_Val": 2.7625937782234766
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9999999733839069,
+        "R2_Val": 0.8928536273095927,
+        "MAE_Val": 2.6137620805157775,
+        "RMSE_Val": 3.3569414937611604
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "num_leaves": 31
+        },
+        "R2_Train": 0.9999987692806735,
+        "R2_Val": 0.9080516936475517,
+        "MAE_Val": 2.159020334716779,
+        "RMSE_Val": 2.761254025863211
+    },
+    {
+        "Modelo": "LightGBM",
+        "Configuracao": {
+            "learning_rate": 1,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "num_leaves": 50
+        },
+        "R2_Train": 0.9999999984171479,
+        "R2_Val": 0.892854919238645,
+        "MAE_Val": 2.614333609347461,
+        "RMSE_Val": 3.3573006588601153
+    }
+]

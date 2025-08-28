@@ -136,11 +136,58 @@ E também avaliamos a evolução do erro (MAE, RMSE) em relação ao R², que fo
 
 ![Importância das Features](notebooks/images/metric_compar.png)
 
+## 💻 Interface (Streamlit)
 
+Após o treinamento, foi criada uma aplicação em Streamlit para:
 
+1. Carregar novos dados de startups.
 
+2. Aplicar o mesmo pipeline de pré-processamento e modelo salvo (modelo_startup.pkl).
 
+3. Exibir o score previsto de maturidade em tempo real.
 
+### Rodando a aplicação Streamlit
+
+```
+streamlit run main.py
+```
+
+## 🚀 Como Executar o Projeto
+
+#### Clonar o repositório
+```
+git clone https://github.com/seu-usuario/startup-maturity-prediction.git
+```
+
+Subir o banco Postgres com Docker
+```
+cd data/docker
+docker-compose up -d
+```
+
+#### Instalar dependências
+```
+pip install -r requirements.txt
+```
+
+Rodar a interface Streamlit
+```
+streamlit run main.py
+```
+
+## 📈 Resultados
+
+- O modelo XGBoost apresentou os melhores resultados entre as alternativas.
+
+- A aplicação permite testar cenários e avaliar a maturidade de startups em tempo real.
+
+## 📌 Próximos Passos
+
+1. Melhorar a interface no Streamlit com gráficos interativos.
+
+2. Automatizar o pipeline de atualização do modelo.
+
+3. Integrar a solução com APIs externas para coleta contínua de dados.
 
 
 

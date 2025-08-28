@@ -1,4 +1,4 @@
-# 📊 Startup Maturity Prediction
+# 📊 Startup Score Prediction
 
 O projeto visa propor uma solução para o Desafio 4 - Ciência de Dados para compor uma nova funcionalidade e alimentar o matchmaker de startups com soluçoes na plataforma Coreto da Prefeitura do Recife em parceria com a EMPREL.
 

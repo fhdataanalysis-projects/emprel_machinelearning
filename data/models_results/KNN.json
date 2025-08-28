@@ -1,0 +1,156 @@
+[
+    {
+        "Modelo": "KNN",
+        "Configuracao": {
+            "n_neighbors": 3,
+            "weights": "uniform"
+        },
+        "R2_Train": 0.7770118808934063,
+        "R2_Val": 0.5791056628284786,
+        "MAE_Val": 5.233973333333333,
+        "RMSE_Val": 6.571275656640463
+    },
+    {
+        "Modelo": "KNN",
+        "Configuracao": {
+            "n_neighbors": 3,
+            "weights": "distance"
+        },
+        "R2_Train": 1.0,
+        "R2_Val": 0.5813394920695188,
+        "MAE_Val": 5.224441651075743,
+        "RMSE_Val": 6.558787563810064
+    },
+    {
+        "Modelo": "KNN",
+        "Configuracao": {
+            "n_neighbors": 5,
+            "weights": "uniform"
+        },
+        "R2_Train": 0.7552656936266587,
+        "R2_Val": 0.6372416039338383,
+        "MAE_Val": 5.033008,
+        "RMSE_Val": 6.206524554692424
+    },
+    {
+        "Modelo": "KNN",
+        "Configuracao": {
+            "n_neighbors": 5,
+            "weights": "distance"
+        },
+        "R2_Train": 1.0,
+        "R2_Val": 0.6394818187356857,
+        "MAE_Val": 5.0161086025687585,
+        "RMSE_Val": 6.191643838770195
+    },
+    {
+        "Modelo": "KNN",
+        "Configuracao": {
+            "n_neighbors": 7,
+            "weights": "uniform"
+        },
+        "R2_Train": 0.7433659435975235,
+        "R2_Val": 0.6570507388797524,
+        "MAE_Val": 4.977582857142856,
+        "RMSE_Val": 6.044157245823846
+    },
+    {
+        "Modelo": "KNN",
+        "Configuracao": {
+            "n_neighbors": 7,
+            "weights": "distance"
+        },
+        "R2_Train": 1.0,
+        "R2_Val": 0.6593795941010137,
+        "MAE_Val": 4.960064890539132,
+        "RMSE_Val": 6.022882382059353
+    },
+    {
+        "Modelo": "KNN",
+        "Configuracao": {
+            "n_neighbors": 9,
+            "weights": "uniform"
+        },
+        "R2_Train": 0.7341747108107162,
+        "R2_Val": 0.6677344356028473,
+        "MAE_Val": 4.899126666666667,
+        "RMSE_Val": 5.938380474028335
+    },
+    {
+        "Modelo": "KNN",
+        "Configuracao": {
+            "n_neighbors": 9,
+            "weights": "distance"
+        },
+        "R2_Train": 1.0,
+        "R2_Val": 0.6701343176861292,
+        "MAE_Val": 4.878800398172044,
+        "RMSE_Val": 5.917021368166998
+    },
+    {
+        "Modelo": "KNN",
+        "Configuracao": {
+            "n_neighbors": 10,
+            "weights": "uniform"
+        },
+        "R2_Train": 0.7305112504978859,
+        "R2_Val": 0.6681106573308941,
+        "MAE_Val": 4.874944999999999,
+        "RMSE_Val": 5.890024222615727
+    },
+    {
+        "Modelo": "KNN",
+        "Configuracao": {
+            "n_neighbors": 10,
+            "weights": "distance"
+        },
+        "R2_Train": 1.0,
+        "R2_Val": 0.6706822357685731,
+        "MAE_Val": 4.8584198735112185,
+        "RMSE_Val": 5.86916822204068
+    },
+    {
+        "Modelo": "KNN",
+        "Configuracao": {
+            "n_neighbors": 12,
+            "weights": "uniform"
+        },
+        "R2_Train": 0.7241245698794605,
+        "R2_Val": 0.6720355029582368,
+        "MAE_Val": 4.899432499999999,
+        "RMSE_Val": 5.901497262524429
+    },
+    {
+        "Modelo": "KNN",
+        "Configuracao": {
+            "n_neighbors": 12,
+            "weights": "distance"
+        },
+        "R2_Train": 1.0,
+        "R2_Val": 0.674605342568845,
+        "MAE_Val": 4.879691522667194,
+        "RMSE_Val": 5.877514602323694
+    },
+    {
+        "Modelo": "KNN",
+        "Configuracao": {
+            "n_neighbors": 15,
+            "weights": "uniform"
+        },
+        "R2_Train": 0.7149386923156165,
+        "R2_Val": 0.6705722646933973,
+        "MAE_Val": 4.906021333333333,
+        "RMSE_Val": 5.873180871800977
+    },
+    {
+        "Modelo": "KNN",
+        "Configuracao": {
+            "n_neighbors": 15,
+            "weights": "distance"
+        },
+        "R2_Train": 1.0,
+        "R2_Val": 0.6733737355623948,
+        "MAE_Val": 4.887671033320376,
+        "RMSE_Val": 5.84985013499607
+    }
+]

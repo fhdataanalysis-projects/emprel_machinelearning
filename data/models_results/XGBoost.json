@@ -1,0 +1,4202 @@
+[
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.11162346821634402,
+        "R2_Val": 0.1097116310776211,
+        "MAE_Val": 8.286412497406006,
+        "RMSE_Val": 9.776359229789449
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.11165929239537553,
+        "R2_Val": 0.10978393880635862,
+        "MAE_Val": 8.28625249343872,
+        "RMSE_Val": 9.775280533353747
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.16075968763770532,
+        "R2_Val": 0.15859840484264634,
+        "MAE_Val": 8.044022587585449,
+        "RMSE_Val": 9.500823535439677
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.16079274433776328,
+        "R2_Val": 0.15864860557071664,
+        "MAE_Val": 8.044001953582763,
+        "RMSE_Val": 9.500078871009128
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.20403622213415423,
+        "R2_Val": 0.2015954645032509,
+        "MAE_Val": 7.825909147644043,
+        "RMSE_Val": 9.251545329031725
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.20404379218831498,
+        "R2_Val": 0.20161582382632864,
+        "MAE_Val": 7.826128882141113,
+        "RMSE_Val": 9.250993011463914
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.24375140495745645,
+        "R2_Val": 0.24108133597870746,
+        "MAE_Val": 7.622627741088867,
+        "RMSE_Val": 9.017919993100948
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.24373928322267763,
+        "R2_Val": 0.24109328131842317,
+        "MAE_Val": 7.622796079101563,
+        "RMSE_Val": 9.017492227928122
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.28506942212208514,
+        "R2_Val": 0.28224041853648363,
+        "MAE_Val": 7.400706613464355,
+        "RMSE_Val": 8.766523465966092
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.2850757397353863,
+        "R2_Val": 0.28228703941943284,
+        "MAE_Val": 7.401243037872315,
+        "RMSE_Val": 8.766393720043686
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.12458130389400357,
+        "R2_Val": 0.12077140401192107,
+        "MAE_Val": 8.236651938629151,
+        "RMSE_Val": 9.714139984951633
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.12481121718535337,
+        "R2_Val": 0.12102840631278264,
+        "MAE_Val": 8.23524744064331,
+        "RMSE_Val": 9.712955724044628
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.17922719635561346,
+        "R2_Val": 0.17438462787714676,
+        "MAE_Val": 7.972615483398437,
+        "RMSE_Val": 9.409625520978551
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.17952457881770964,
+        "R2_Val": 0.17467767734945203,
+        "MAE_Val": 7.970567348480224,
+        "RMSE_Val": 9.407749965169769
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.2276632958278543,
+        "R2_Val": 0.2217043604659176,
+        "MAE_Val": 7.7328976301574714,
+        "RMSE_Val": 9.131163441131903
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.22799055462476686,
+        "R2_Val": 0.22205830398337562,
+        "MAE_Val": 7.729848495483399,
+        "RMSE_Val": 9.128891267670886
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.2721480631186953,
+        "R2_Val": 0.2651544136730066,
+        "MAE_Val": 7.508739243469238,
+        "RMSE_Val": 8.869952811271503
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.27246773595096735,
+        "R2_Val": 0.2655306457528569,
+        "MAE_Val": 7.50478523727417,
+        "RMSE_Val": 8.867188358974381
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.31803819759200885,
+        "R2_Val": 0.3103106603867599,
+        "MAE_Val": 7.263882351989746,
+        "RMSE_Val": 8.588944257118994
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.3183780437181912,
+        "R2_Val": 0.31071282753502893,
+        "MAE_Val": 7.260152730255126,
+        "RMSE_Val": 8.586543523515594
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.13435800661683334,
+        "R2_Val": 0.12573028637098618,
+        "MAE_Val": 8.215949964904786,
+        "RMSE_Val": 9.68430994222062
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.13521235212505522,
+        "R2_Val": 0.12634320376849223,
+        "MAE_Val": 8.214522109375,
+        "RMSE_Val": 9.681450879345316
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.1932663192831468,
+        "R2_Val": 0.1813933276544462,
+        "MAE_Val": 7.941786996002197,
+        "RMSE_Val": 9.3649043797668
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.1944312404860016,
+        "R2_Val": 0.18218311298092274,
+        "MAE_Val": 7.941245378265381,
+        "RMSE_Val": 9.362688227880628
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.2459050723122656,
+        "R2_Val": 0.23055369390191077,
+        "MAE_Val": 7.692262250976563,
+        "RMSE_Val": 9.072580746449962
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.24732316589110415,
+        "R2_Val": 0.23157344812647568,
+        "MAE_Val": 7.691636029968262,
+        "RMSE_Val": 9.070312533940886
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.2942340078424103,
+        "R2_Val": 0.275711276976811,
+        "MAE_Val": 7.457909852905273,
+        "RMSE_Val": 8.798011584538518
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.2958574788910089,
+        "R2_Val": 0.27690183325310536,
+        "MAE_Val": 7.456727152252197,
+        "RMSE_Val": 8.794705152540686
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.34325447368609885,
+        "R2_Val": 0.32263527766871136,
+        "MAE_Val": 7.201823236236573,
+        "RMSE_Val": 8.501802798034921
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.34506430530720167,
+        "R2_Val": 0.32397463421938844,
+        "MAE_Val": 7.201534070434571,
+        "RMSE_Val": 8.498765757613821
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.14700381009908772,
+        "R2_Val": 0.12517358492887856,
+        "MAE_Val": 8.219069746398926,
+        "RMSE_Val": 9.684017846187121
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.15081098817191035,
+        "R2_Val": 0.1261665268759581,
+        "MAE_Val": 8.211708840942384,
+        "RMSE_Val": 9.676887592316842
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.21122708994471426,
+        "R2_Val": 0.18046949369830395,
+        "MAE_Val": 7.945158902893066,
+        "RMSE_Val": 9.364250500377912
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.2165366531537205,
+        "R2_Val": 0.1816762740536373,
+        "MAE_Val": 7.9383084739685055,
+        "RMSE_Val": 9.357871374600888
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.2692851195009041,
+        "R2_Val": 0.22924109517311445,
+        "MAE_Val": 7.697601944580078,
+        "RMSE_Val": 9.072854170487435
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.27601623009999054,
+        "R2_Val": 0.230602751708612,
+        "MAE_Val": 7.691336696166992,
+        "RMSE_Val": 9.06681799158227
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.322545827132922,
+        "R2_Val": 0.27392249862316437,
+        "MAE_Val": 7.466069084777831,
+        "RMSE_Val": 8.800425119680025
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.3304954076413104,
+        "R2_Val": 0.27529144862083743,
+        "MAE_Val": 7.4586515927124015,
+        "RMSE_Val": 8.792062660245742
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.3745150777766746,
+        "R2_Val": 0.3202795707108306,
+        "MAE_Val": 7.213402483062744,
+        "RMSE_Val": 8.506668183410696
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.3832633565472978,
+        "R2_Val": 0.3217754281321849,
+        "MAE_Val": 7.206766182861328,
+        "RMSE_Val": 8.498466577550884
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.15346469523149925,
+        "R2_Val": 0.12290145374167949,
+        "MAE_Val": 8.233316286773682,
+        "RMSE_Val": 9.699234384966061
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.16062562524290575,
+        "R2_Val": 0.12329103036978901,
+        "MAE_Val": 8.230113915557862,
+        "RMSE_Val": 9.69395992591148
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.2204697268768651,
+        "R2_Val": 0.17705010505396807,
+        "MAE_Val": 7.968153906555175,
+        "RMSE_Val": 9.388229758817326
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.23052373986974833,
+        "R2_Val": 0.17740818958201016,
+        "MAE_Val": 7.967954885101319,
+        "RMSE_Val": 9.385105976729768
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.28127062584256796,
+        "R2_Val": 0.22455861883929812,
+        "MAE_Val": 7.729459574432372,
+        "RMSE_Val": 9.106604309787384
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.29409988532378284,
+        "R2_Val": 0.22482058704392402,
+        "MAE_Val": 7.731533997650146,
+        "RMSE_Val": 9.10451408012883
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.3370831281875475,
+        "R2_Val": 0.2680381022691698,
+        "MAE_Val": 7.506609010467529,
+        "RMSE_Val": 8.842811064274844
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.35227498067366375,
+        "R2_Val": 0.2680473921969407,
+        "MAE_Val": 7.510128905944825,
+        "RMSE_Val": 8.84124731322012
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.38995844821517417,
+        "R2_Val": 0.3132724392131334,
+        "MAE_Val": 7.264768437957764,
+        "RMSE_Val": 8.55980965721295
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.40634525755960543,
+        "R2_Val": 0.3130570575940629,
+        "MAE_Val": 7.269248607330322,
+        "RMSE_Val": 8.558795091293053
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.6275344564271498,
+        "R2_Val": 0.6233957112132079,
+        "MAE_Val": 5.201867991790771,
+        "RMSE_Val": 6.330026475631219
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.6272000609801107,
+        "R2_Val": 0.6227773792761392,
+        "MAE_Val": 5.205743341827392,
+        "RMSE_Val": 6.335064168065994
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.7315770312906424,
+        "R2_Val": 0.7263557625500124,
+        "MAE_Val": 4.330946568145752,
+        "RMSE_Val": 5.391319644711829
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.7308868320231291,
+        "R2_Val": 0.7253667880127309,
+        "MAE_Val": 4.336984590454102,
+        "RMSE_Val": 5.400204889434156
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.7910243438426017,
+        "R2_Val": 0.7844651869080499,
+        "MAE_Val": 3.7725496449279783,
+        "RMSE_Val": 4.7753690622330485
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.7898909616555709,
+        "R2_Val": 0.7826687552013855,
+        "MAE_Val": 3.7822147521972656,
+        "RMSE_Val": 4.789421328587272
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.8306494113584402,
+        "R2_Val": 0.8229734884056228,
+        "MAE_Val": 3.370745646209717,
+        "RMSE_Val": 4.3149581279126155
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.8288909120473639,
+        "R2_Val": 0.820503732828254,
+        "MAE_Val": 3.3919013662719726,
+        "RMSE_Val": 4.341375261924943
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.859653840199136,
+        "R2_Val": 0.8514014012850737,
+        "MAE_Val": 3.0602170474243167,
+        "RMSE_Val": 3.948627150431016
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.8578702289037938,
+        "R2_Val": 0.8488560034269543,
+        "MAE_Val": 3.0877030171203614,
+        "RMSE_Val": 3.982582587926355
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.6960066604908555,
+        "R2_Val": 0.6816990503760167,
+        "MAE_Val": 4.8153594483947755,
+        "RMSE_Val": 5.800104471703183
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.6954217836335009,
+        "R2_Val": 0.6808928471781905,
+        "MAE_Val": 4.821348583526611,
+        "RMSE_Val": 5.808702958706188
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.8078736255774377,
+        "R2_Val": 0.791606126084248,
+        "MAE_Val": 3.804493915252686,
+        "RMSE_Val": 4.673393797134471
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.8069663291982998,
+        "R2_Val": 0.7902469277165579,
+        "MAE_Val": 3.812695105743408,
+        "RMSE_Val": 4.687900590887691
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.8683141707493448,
+        "R2_Val": 0.8510593841863925,
+        "MAE_Val": 3.15765802734375,
+        "RMSE_Val": 3.94267058144543
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.8669547216187908,
+        "R2_Val": 0.8490332662923514,
+        "MAE_Val": 3.1672623274230953,
+        "RMSE_Val": 3.9656847266397786
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9053984935807968,
+        "R2_Val": 0.8874689460813615,
+        "MAE_Val": 2.691992949371338,
+        "RMSE_Val": 3.416388933423136
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9041840359302782,
+        "R2_Val": 0.8850761666570147,
+        "MAE_Val": 2.70685608795166,
+        "RMSE_Val": 3.4408726723543808
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9308033832221358,
+        "R2_Val": 0.9127957336974617,
+        "MAE_Val": 2.3227022537231448,
+        "RMSE_Val": 2.995043199327532
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9294328584492902,
+        "R2_Val": 0.9099471679519879,
+        "MAE_Val": 2.346214376220703,
+        "RMSE_Val": 3.0292947120123728
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.7445986293611522,
+        "R2_Val": 0.7080722387355382,
+        "MAE_Val": 4.619942091217041,
+        "RMSE_Val": 5.525376936846448
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.7460695071128566,
+        "R2_Val": 0.70809229725756,
+        "MAE_Val": 4.633174291992187,
+        "RMSE_Val": 5.532674183064796
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.8591898334394052,
+        "R2_Val": 0.820672466466001,
+        "MAE_Val": 3.555086578674316,
+        "RMSE_Val": 4.3003719869194486
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.8600726517622789,
+        "R2_Val": 0.8197411692981345,
+        "MAE_Val": 3.5684498484802245,
+        "RMSE_Val": 4.317454896856555
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9169036367386418,
+        "R2_Val": 0.8789467986345422,
+        "MAE_Val": 2.8586793742370604,
+        "RMSE_Val": 3.5024678509406972
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9173356972756321,
+        "R2_Val": 0.877252501735622,
+        "MAE_Val": 2.8822839102172852,
+        "RMSE_Val": 3.5312449906337973
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9482885877649213,
+        "R2_Val": 0.9121760946930166,
+        "MAE_Val": 2.3861418016052243,
+        "RMSE_Val": 2.962649439771851
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9484357605691077,
+        "R2_Val": 0.9100011333978177,
+        "MAE_Val": 2.406271370697022,
+        "RMSE_Val": 2.992332054935773
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.966955647918154,
+        "R2_Val": 0.933748107229978,
+        "MAE_Val": 2.0245751887512204,
+        "RMSE_Val": 2.555616178063108
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9669252298212472,
+        "R2_Val": 0.9311995949510259,
+        "MAE_Val": 2.0552621496582026,
+        "RMSE_Val": 2.5924530075932726
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.7896236275850701,
+        "R2_Val": 0.6997564095325017,
+        "MAE_Val": 4.6789275399780275,
+        "RMSE_Val": 5.579727110785878
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.7993912974628397,
+        "R2_Val": 0.6991832036279233,
+        "MAE_Val": 4.676364122314453,
+        "RMSE_Val": 5.566365972413171
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.8995933163176648,
+        "R2_Val": 0.8088495814583508,
+        "MAE_Val": 3.6606253118896483,
+        "RMSE_Val": 4.405166467453569
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9068653366713477,
+        "R2_Val": 0.8060381332620095,
+        "MAE_Val": 3.6836851440429688,
+        "RMSE_Val": 4.4146826956754275
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9503112015031541,
+        "R2_Val": 0.8643640946110599,
+        "MAE_Val": 3.02987044921875,
+        "RMSE_Val": 3.6666398229143478
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9553944311654817,
+        "R2_Val": 0.8600120292312381,
+        "MAE_Val": 3.0671119537353517,
+        "RMSE_Val": 3.7015525705339805
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9747618207403443,
+        "R2_Val": 0.8948689721205113,
+        "MAE_Val": 2.624863119812012,
+        "RMSE_Val": 3.193264254250788
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9780853996685647,
+        "R2_Val": 0.8896725864093644,
+        "MAE_Val": 2.671868349304199,
+        "RMSE_Val": 3.2498175238218825
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9872062739238384,
+        "R2_Val": 0.9146806666054873,
+        "MAE_Val": 2.3232534953308104,
+        "RMSE_Val": 2.8455459333232
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9892777159325551,
+        "R2_Val": 0.9086664669158863,
+        "MAE_Val": 2.384817439880371,
+        "RMSE_Val": 2.9278265328398168
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.805696529313828,
+        "R2_Val": 0.6825284140009857,
+        "MAE_Val": 4.843147551574707,
+        "RMSE_Val": 5.759246862651578
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.8223463151726988,
+        "R2_Val": 0.6758163475851879,
+        "MAE_Val": 4.906110491485595,
+        "RMSE_Val": 5.80809216933562
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9113617035086019,
+        "R2_Val": 0.7880075413719195,
+        "MAE_Val": 3.917300895233154,
+        "RMSE_Val": 4.682461000075081
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9229853994951467,
+        "R2_Val": 0.7777339124031581,
+        "MAE_Val": 4.015639158477783,
+        "RMSE_Val": 4.780043371584006
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9584320865644418,
+        "R2_Val": 0.8418212495237218,
+        "MAE_Val": 3.3509014485168453,
+        "RMSE_Val": 4.023362826242939
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9659679742140354,
+        "R2_Val": 0.8288682429641444,
+        "MAE_Val": 3.485167568969726,
+        "RMSE_Val": 4.158902550001973
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.98012508374997,
+        "R2_Val": 0.8714063586248484,
+        "MAE_Val": 2.9976990898132327,
+        "RMSE_Val": 3.613680464298796
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9847390508705116,
+        "R2_Val": 0.8567444869008616,
+        "MAE_Val": 3.168778972167969,
+        "RMSE_Val": 3.7921666480557557
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9904723331160119,
+        "R2_Val": 0.8906343326401881,
+        "MAE_Val": 2.7411355195617673,
+        "RMSE_Val": 3.319509127546025
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.993111762059821,
+        "R2_Val": 0.8747971102578956,
+        "MAE_Val": 2.943699270629883,
+        "RMSE_Val": 3.53556022793817
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9784323084786279,
+        "R2_Val": 0.9712871919829598,
+        "MAE_Val": 1.2691018909454344,
+        "RMSE_Val": 1.7212065897609061
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9780438475747728,
+        "R2_Val": 0.970749440617538,
+        "MAE_Val": 1.2699348941802977,
+        "RMSE_Val": 1.7234634893771206
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9899175443689611,
+        "R2_Val": 0.9848040812608116,
+        "MAE_Val": 0.9218466542053222,
+        "RMSE_Val": 1.227737809300761
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9898651963963007,
+        "R2_Val": 0.984740469997317,
+        "MAE_Val": 0.9276203920745847,
+        "RMSE_Val": 1.2333553134466286
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9937743095514966,
+        "R2_Val": 0.9899160556752911,
+        "MAE_Val": 0.7431153283691405,
+        "RMSE_Val": 0.978207222909778
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9938240863039397,
+        "R2_Val": 0.9900210112863463,
+        "MAE_Val": 0.7576823232269287,
+        "RMSE_Val": 0.9943253833748326
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9953933134636349,
+        "R2_Val": 0.9922185335865883,
+        "MAE_Val": 0.6449330894470214,
+        "RMSE_Val": 0.8478350479633503
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9955152195400145,
+        "R2_Val": 0.992391172307068,
+        "MAE_Val": 0.6498102143859862,
+        "RMSE_Val": 0.8491038339213705
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9963533283947035,
+        "R2_Val": 0.9936120905126545,
+        "MAE_Val": 0.5782676959991454,
+        "RMSE_Val": 0.7539003206747923
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9964497767549776,
+        "R2_Val": 0.9937663326376001,
+        "MAE_Val": 0.5813732456207275,
+        "RMSE_Val": 0.7589248785105761
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9940857857756512,
+        "R2_Val": 0.9839059752780546,
+        "MAE_Val": 0.8984033682250977,
+        "RMSE_Val": 1.21314978049673
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9943104277201282,
+        "R2_Val": 0.9831770865485066,
+        "MAE_Val": 0.9193532092285155,
+        "RMSE_Val": 1.2400725301083915
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9968675191654436,
+        "R2_Val": 0.9885573500996327,
+        "MAE_Val": 0.7430657561492919,
+        "RMSE_Val": 0.9975460919963023
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9970796911374376,
+        "R2_Val": 0.9881522981299147,
+        "MAE_Val": 0.7615301109313964,
+        "RMSE_Val": 1.016280545400014
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9978677463061597,
+        "R2_Val": 0.9899879125488406,
+        "MAE_Val": 0.6945887665557862,
+        "RMSE_Val": 0.9273972743015958
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9980146869487372,
+        "R2_Val": 0.9896893080717251,
+        "MAE_Val": 0.7108714359283446,
+        "RMSE_Val": 0.9419001531180576
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9983945972458248,
+        "R2_Val": 0.9905220078441029,
+        "MAE_Val": 0.6792012690734864,
+        "RMSE_Val": 0.9004399559159648
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9984980477422634,
+        "R2_Val": 0.99027023507494,
+        "MAE_Val": 0.6886073728179931,
+        "RMSE_Val": 0.9106480218593812
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9987474613709757,
+        "R2_Val": 0.9908005187253238,
+        "MAE_Val": 0.672762803955078,
+        "RMSE_Val": 0.889775565429458
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9988088097098808,
+        "R2_Val": 0.9905566918850797,
+        "MAE_Val": 0.6783564025115966,
+        "RMSE_Val": 0.895751710391678
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9983019478501447,
+        "R2_Val": 0.9778639321222163,
+        "MAE_Val": 1.0307121787261964,
+        "RMSE_Val": 1.3562922640004471
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9984996842578345,
+        "R2_Val": 0.9768998258991143,
+        "MAE_Val": 1.0532583853912354,
+        "RMSE_Val": 1.388127495832483
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9992781620801926,
+        "R2_Val": 0.9795203908789072,
+        "MAE_Val": 0.9808545761108398,
+        "RMSE_Val": 1.2933273188925625
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9993714218889511,
+        "R2_Val": 0.978620528994964,
+        "MAE_Val": 1.0068356246185304,
+        "RMSE_Val": 1.3194320560879316
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9996467308352373,
+        "R2_Val": 0.9799442302462842,
+        "MAE_Val": 0.9655835608673097,
+        "RMSE_Val": 1.274083937452753
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9996815934520091,
+        "R2_Val": 0.9790200500799722,
+        "MAE_Val": 0.9922503499603272,
+        "RMSE_Val": 1.3003972107950814
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9998124072332093,
+        "R2_Val": 0.980058051566013,
+        "MAE_Val": 0.9598484050750733,
+        "RMSE_Val": 1.2671414695560237
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9998204354846234,
+        "R2_Val": 0.9791701284198755,
+        "MAE_Val": 0.9865507901000976,
+        "RMSE_Val": 1.2925185200393325
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999012659956561,
+        "R2_Val": 0.9801234158920538,
+        "MAE_Val": 0.9577269132232666,
+        "RMSE_Val": 1.2648100357559187
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.999893891274415,
+        "R2_Val": 0.9792255735267326,
+        "MAE_Val": 0.9838337142944336,
+        "RMSE_Val": 1.288184930401565
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999583553441849,
+        "R2_Val": 0.9473035220475994,
+        "MAE_Val": 1.694968302993774,
+        "RMSE_Val": 2.1781307623367336
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9999856535815784,
+        "R2_Val": 0.9418609205185634,
+        "MAE_Val": 1.7512158448028563,
+        "RMSE_Val": 2.2318784958367033
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999954301157272,
+        "R2_Val": 0.9476542061627038,
+        "MAE_Val": 1.6881675286102293,
+        "RMSE_Val": 2.169376419137068
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9999987464633209,
+        "R2_Val": 0.9421069632657965,
+        "MAE_Val": 1.7466747795867918,
+        "RMSE_Val": 2.226120107405034
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.999999366578181,
+        "R2_Val": 0.9476961188816364,
+        "MAE_Val": 1.6872612835693357,
+        "RMSE_Val": 2.16801841718298
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9999998039845106,
+        "R2_Val": 0.9421280019521472,
+        "MAE_Val": 1.7461089760589599,
+        "RMSE_Val": 2.2254150633792458
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999999053076936,
+        "R2_Val": 0.9477023174066679,
+        "MAE_Val": 1.6872150396728514,
+        "RMSE_Val": 2.1678140018516703
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9999999617372813,
+        "R2_Val": 0.9421311019505512,
+        "MAE_Val": 1.7460779131317135,
+        "RMSE_Val": 2.2253485441316285
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999999855894648,
+        "R2_Val": 0.9477041543972776,
+        "MAE_Val": 1.6870641874694823,
+        "RMSE_Val": 2.1676437472793855
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9999999833180733,
+        "R2_Val": 0.9421318752120971,
+        "MAE_Val": 1.7460239027404783,
+        "RMSE_Val": 2.225267336867629
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999977608064741,
+        "R2_Val": 0.9204633821243414,
+        "MAE_Val": 2.203160040740967,
+        "RMSE_Val": 2.8054493230303588
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9999996369909319,
+        "R2_Val": 0.9045706789276176,
+        "MAE_Val": 2.385359600067139,
+        "RMSE_Val": 2.9968787768147465
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999999769162672,
+        "R2_Val": 0.9206560223102012,
+        "MAE_Val": 2.2006827229309085,
+        "RMSE_Val": 2.8020513124566624
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9999999978122942,
+        "R2_Val": 0.9046823558494678,
+        "MAE_Val": 2.3839354885864257,
+        "RMSE_Val": 2.9951912046393376
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999999981244458,
+        "R2_Val": 0.9206660997541978,
+        "MAE_Val": 2.200576460723877,
+        "RMSE_Val": 2.8019146563408945
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9999999992007641,
+        "R2_Val": 0.90468816025845,
+        "MAE_Val": 2.3838692959594727,
+        "RMSE_Val": 2.995107869583349
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999999982716025,
+        "R2_Val": 0.9206664396026873,
+        "MAE_Val": 2.2005739582824706,
+        "RMSE_Val": 2.8019113516350087
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9999999992093563,
+        "R2_Val": 0.9046883496238209,
+        "MAE_Val": 2.383868536834717,
+        "RMSE_Val": 2.995106796284805
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999999983234783,
+        "R2_Val": 0.9206665454927669,
+        "MAE_Val": 2.2005711697387698,
+        "RMSE_Val": 2.8019079364635844
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 0.8,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9999999992111844,
+        "R2_Val": 0.9046883800581377,
+        "MAE_Val": 2.383868536834717,
+        "RMSE_Val": 2.995106796284805
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.1318731534955615,
+        "R2_Val": 0.1301332744062799,
+        "MAE_Val": 8.177467862091065,
+        "RMSE_Val": 9.661139147342821
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.13186064411110682,
+        "R2_Val": 0.13011195429067582,
+        "MAE_Val": 8.176584557952882,
+        "RMSE_Val": 9.660872315385474
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.18872440735719903,
+        "R2_Val": 0.18680858472547338,
+        "MAE_Val": 7.889166436767578,
+        "RMSE_Val": 9.336036414502727
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.18866968286053035,
+        "R2_Val": 0.18669276084363076,
+        "MAE_Val": 7.888359632568359,
+        "RMSE_Val": 9.335783802002801
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.24035819866032862,
+        "R2_Val": 0.23826089199320338,
+        "MAE_Val": 7.6169165980529785,
+        "RMSE_Val": 9.031181167208185
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.24025099563306784,
+        "R2_Val": 0.23810900494151324,
+        "MAE_Val": 7.6168364495849605,
+        "RMSE_Val": 9.03072732094444
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.2873719943968972,
+        "R2_Val": 0.2851928199542654,
+        "MAE_Val": 7.361797163848877,
+        "RMSE_Val": 8.74493485673714
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.2872146794956586,
+        "R2_Val": 0.284957185673687,
+        "MAE_Val": 7.361012376861572,
+        "RMSE_Val": 8.744108505922915
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.33020076149148564,
+        "R2_Val": 0.32791901596401063,
+        "MAE_Val": 7.119661424713135,
+        "RMSE_Val": 8.475144099089544
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 3,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.3300219202445331,
+        "R2_Val": 0.3277117674113156,
+        "MAE_Val": 7.119217009429931,
+        "RMSE_Val": 8.474691394129378
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.1465736416434111,
+        "R2_Val": 0.143615470521881,
+        "MAE_Val": 8.1150721484375,
+        "RMSE_Val": 9.585024309441971
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.14674685209604937,
+        "R2_Val": 0.14388866022463123,
+        "MAE_Val": 8.110972969970705,
+        "RMSE_Val": 9.582765766528878
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.20987960280909485,
+        "R2_Val": 0.2062142353536692,
+        "MAE_Val": 7.7973004687500005,
+        "RMSE_Val": 9.223076614327347
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.2100615164360465,
+        "R2_Val": 0.2065146354974267,
+        "MAE_Val": 7.793069083099366,
+        "RMSE_Val": 9.220801098779717
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.2674427363007177,
+        "R2_Val": 0.2631745299112289,
+        "MAE_Val": 7.498203478088379,
+        "RMSE_Val": 8.881447255168128
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.2675614805495693,
+        "R2_Val": 0.2633504697326955,
+        "MAE_Val": 7.494806981048584,
+        "RMSE_Val": 8.880162237148113
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.3197752380057338,
+        "R2_Val": 0.31494755648767614,
+        "MAE_Val": 7.216725227203369,
+        "RMSE_Val": 8.560369944156683
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.3198031469757643,
+        "R2_Val": 0.3149730566792576,
+        "MAE_Val": 7.2138248745727545,
+        "RMSE_Val": 8.559513335387567
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.3673929201784731,
+        "R2_Val": 0.36195450682869407,
+        "MAE_Val": 6.951495808563233,
+        "RMSE_Val": 8.257328704706058
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.36733531782947565,
+        "R2_Val": 0.3619285213785358,
+        "MAE_Val": 6.9508419705200195,
+        "RMSE_Val": 8.258146812518603
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.15569727462551042,
+        "R2_Val": 0.15042029643362204,
+        "MAE_Val": 8.086738164978028,
+        "RMSE_Val": 9.544904906343366
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.15632477133828304,
+        "R2_Val": 0.15081877332561267,
+        "MAE_Val": 8.085951569976807,
+        "RMSE_Val": 9.545557147784901
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.22314279443111212,
+        "R2_Val": 0.21608525691068348,
+        "MAE_Val": 7.753281479797363,
+        "RMSE_Val": 9.162366928439097
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.22394248544799797,
+        "R2_Val": 0.21651762950475212,
+        "MAE_Val": 7.7505803800964355,
+        "RMSE_Val": 9.161602416614805
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.28456630836824154,
+        "R2_Val": 0.27578369357835586,
+        "MAE_Val": 7.437604737091065,
+        "RMSE_Val": 8.800373158789034
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.2854387404591848,
+        "R2_Val": 0.276155702792365,
+        "MAE_Val": 7.435540228271485,
+        "RMSE_Val": 8.800433146691221
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.3405213829630481,
+        "R2_Val": 0.3301811526707913,
+        "MAE_Val": 7.1395916268920905,
+        "RMSE_Val": 8.45858522622911
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.3414218494402889,
+        "R2_Val": 0.3304400411319193,
+        "MAE_Val": 7.137051608276367,
+        "RMSE_Val": 8.457692215399398
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.3914946382871135,
+        "R2_Val": 0.3796830266511046,
+        "MAE_Val": 6.8573230541992185,
+        "RMSE_Val": 8.134689337299434
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 7,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.3924179327605024,
+        "R2_Val": 0.37988926301665493,
+        "MAE_Val": 6.855316191864015,
+        "RMSE_Val": 8.133853336066023
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.16248083279444334,
+        "R2_Val": 0.15156359968785715,
+        "MAE_Val": 8.082019605407716,
+        "RMSE_Val": 9.53499596016426
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.1647366114895326,
+        "R2_Val": 0.15252355768972797,
+        "MAE_Val": 8.074593509368896,
+        "RMSE_Val": 9.531330390415356
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.23304563979351406,
+        "R2_Val": 0.21783674892065558,
+        "MAE_Val": 7.745362338104248,
+        "RMSE_Val": 9.147290225261928
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.2360982883540148,
+        "R2_Val": 0.21909176042508177,
+        "MAE_Val": 7.736276946563721,
+        "RMSE_Val": 9.144088631219372
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.29738099472076124,
+        "R2_Val": 0.2781345523522224,
+        "MAE_Val": 7.4263993032836915,
+        "RMSE_Val": 8.779288310116476
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.3011029901835746,
+        "R2_Val": 0.27965527844792276,
+        "MAE_Val": 7.41596970703125,
+        "RMSE_Val": 8.776971056132128
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.35606914288767494,
+        "R2_Val": 0.3331442841054536,
+        "MAE_Val": 7.123828872680664,
+        "RMSE_Val": 8.430741593848927
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.36032553398100775,
+        "R2_Val": 0.3346946182996712,
+        "MAE_Val": 7.116210336303712,
+        "RMSE_Val": 8.431017305965984
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.4096022374012945,
+        "R2_Val": 0.38314961588901886,
+        "MAE_Val": 6.834736829223633,
+        "RMSE_Val": 8.099683253943425
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.4143414653180333,
+        "R2_Val": 0.3849027456022047,
+        "MAE_Val": 6.832405726165771,
+        "RMSE_Val": 8.104240150262612
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.1634659720105049,
+        "R2_Val": 0.1506199966868414,
+        "MAE_Val": 8.089311206512452,
+        "RMSE_Val": 9.540212818781772
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.16653462555088816,
+        "R2_Val": 0.1512215459925039,
+        "MAE_Val": 8.084935418853759,
+        "RMSE_Val": 9.537880103135574
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.23448722174953182,
+        "R2_Val": 0.21651591735077158,
+        "MAE_Val": 7.756409625091552,
+        "RMSE_Val": 9.155561368723964
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.23869631523136423,
+        "R2_Val": 0.21707756665162564,
+        "MAE_Val": 7.751464100646972,
+        "RMSE_Val": 9.15492962441421
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.2992268305218497,
+        "R2_Val": 0.27647688984843877,
+        "MAE_Val": 7.439698723297119,
+        "RMSE_Val": 8.789628905296007
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.3044025617784694,
+        "R2_Val": 0.2769331047713717,
+        "MAE_Val": 7.434023014068604,
+        "RMSE_Val": 8.791102750084876
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.35829531595754,
+        "R2_Val": 0.3311922388034618,
+        "MAE_Val": 7.139863361053467,
+        "RMSE_Val": 8.443418098770637
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.3642485757008518,
+        "R2_Val": 0.3314860519354281,
+        "MAE_Val": 7.136940123596192,
+        "RMSE_Val": 8.448931037967997
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.4121738251140945,
+        "R2_Val": 0.3809677511249442,
+        "MAE_Val": 6.853825725860595,
+        "RMSE_Val": 8.115116465737016
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.001,
+            "max_depth": 20,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.4188012646900471,
+        "R2_Val": 0.38120825339685643,
+        "MAE_Val": 6.856684937744141,
+        "RMSE_Val": 8.126781791006595
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.6581733638484321,
+        "R2_Val": 0.6546525045614305,
+        "MAE_Val": 4.903425043792724,
+        "RMSE_Val": 6.054919285439429
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.6574329923794254,
+        "R2_Val": 0.6536835637030144,
+        "MAE_Val": 4.908679721069337,
+        "RMSE_Val": 6.0622166630697905
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.7465727487548387,
+        "R2_Val": 0.7415240421455391,
+        "MAE_Val": 4.147826826629639,
+        "RMSE_Val": 5.224158935348598
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.7453199162182675,
+        "R2_Val": 0.7400583846869118,
+        "MAE_Val": 4.1633692578125,
+        "RMSE_Val": 5.24419539376888
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.7992341227527426,
+        "R2_Val": 0.7927437606694114,
+        "MAE_Val": 3.6637912936401364,
+        "RMSE_Val": 4.662607084000311
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.7975627141604252,
+        "R2_Val": 0.7903947527726134,
+        "MAE_Val": 3.68350134979248,
+        "RMSE_Val": 4.68677847047129
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.8366213169600314,
+        "R2_Val": 0.8290808757894226,
+        "MAE_Val": 3.3045525498962403,
+        "RMSE_Val": 4.227118794320542
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.8349819218581798,
+        "R2_Val": 0.8266686064531313,
+        "MAE_Val": 3.325776222229004,
+        "RMSE_Val": 4.255388139072252
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.8647094870461706,
+        "R2_Val": 0.8564210434679781,
+        "MAE_Val": 3.0126243267822264,
+        "RMSE_Val": 3.8729013085065866
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 3,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.8629960349662354,
+        "R2_Val": 0.8539652514302066,
+        "MAE_Val": 3.0398928523254396,
+        "RMSE_Val": 3.904278975559844
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.7316965483100872,
+        "R2_Val": 0.7204719304865624,
+        "MAE_Val": 4.432677610321045,
+        "RMSE_Val": 5.433072135112158
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.7299296942569728,
+        "R2_Val": 0.7183379859389637,
+        "MAE_Val": 4.447034745178223,
+        "RMSE_Val": 5.454692140493066
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.8275962034496089,
+        "R2_Val": 0.8136463747176945,
+        "MAE_Val": 3.5246109957885743,
+        "RMSE_Val": 4.420117103031371
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.8252865061877772,
+        "R2_Val": 0.8105347851526219,
+        "MAE_Val": 3.5518157527160645,
+        "RMSE_Val": 4.463335544914946
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.8807199987446559,
+        "R2_Val": 0.8640858524983857,
+        "MAE_Val": 2.94779060546875,
+        "RMSE_Val": 3.74931251451259
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.8785671780136678,
+        "R2_Val": 0.8604067856716087,
+        "MAE_Val": 2.9927522831726074,
+        "RMSE_Val": 3.809857016188307
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9130731516979715,
+        "R2_Val": 0.8951284491836302,
+        "MAE_Val": 2.5571781350708007,
+        "RMSE_Val": 3.280859863827171
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.910957280405737,
+        "R2_Val": 0.8913591493130977,
+        "MAE_Val": 2.6083584896850587,
+        "RMSE_Val": 3.3507702164822897
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9350557365447447,
+        "R2_Val": 0.9167683522761443,
+        "MAE_Val": 2.2586254612731937,
+        "RMSE_Val": 2.9162190399561734
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9332386446849765,
+        "R2_Val": 0.9131028170731519,
+        "MAE_Val": 2.313953347015381,
+        "RMSE_Val": 2.987250496295686
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.7820334715116263,
+        "R2_Val": 0.7565407035885758,
+        "MAE_Val": 4.165943699188232,
+        "RMSE_Val": 5.054183795589358
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.7819097741309277,
+        "R2_Val": 0.7541045635910714,
+        "MAE_Val": 4.18741469696045,
+        "RMSE_Val": 5.083922644887268
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.8813147175009715,
+        "R2_Val": 0.8515241551310708,
+        "MAE_Val": 3.1622280322265626,
+        "RMSE_Val": 3.9135239947134
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.8808276296406661,
+        "R2_Val": 0.8482378643425175,
+        "MAE_Val": 3.1936192933654786,
+        "RMSE_Val": 3.95981073047816
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9292513372403544,
+        "R2_Val": 0.8979615516014638,
+        "MAE_Val": 2.5527430662536617,
+        "RMSE_Val": 3.2199973987096415
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9286341438093533,
+        "R2_Val": 0.8942118328776558,
+        "MAE_Val": 2.599104697265625,
+        "RMSE_Val": 3.282182214152571
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9559404538388743,
+        "R2_Val": 0.9243964186637637,
+        "MAE_Val": 2.1468450453186034,
+        "RMSE_Val": 2.7431513360441993
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9554705706657044,
+        "R2_Val": 0.9200867853939482,
+        "MAE_Val": 2.1978665678405758,
+        "RMSE_Val": 2.8115431067032763
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9713897212101992,
+        "R2_Val": 0.9406706601409589,
+        "MAE_Val": 1.866703523712158,
+        "RMSE_Val": 2.407658952116377
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 7,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9709575984021914,
+        "R2_Val": 0.9361797773587037,
+        "MAE_Val": 1.9272390620422362,
+        "RMSE_Val": 2.4930512209808273
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.8183536799466854,
+        "R2_Val": 0.7638620251803692,
+        "MAE_Val": 4.066099872894287,
+        "RMSE_Val": 4.931234314620776
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.8244036402784995,
+        "R2_Val": 0.761730777231457,
+        "MAE_Val": 4.099301992340088,
+        "RMSE_Val": 4.950805806035505
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9175967573491507,
+        "R2_Val": 0.8575218369809254,
+        "MAE_Val": 3.070221766357422,
+        "RMSE_Val": 3.782430927403657
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9223673403957449,
+        "R2_Val": 0.8526709102602336,
+        "MAE_Val": 3.1208625138854975,
+        "RMSE_Val": 3.838696213790199
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9610310011338552,
+        "R2_Val": 0.9006973526171935,
+        "MAE_Val": 2.482888217010498,
+        "RMSE_Val": 3.112296672178934
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9644269968361943,
+        "R2_Val": 0.8939481181024289,
+        "MAE_Val": 2.556968401031494,
+        "RMSE_Val": 3.2082859671614425
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9808193821891009,
+        "R2_Val": 0.9225056345422953,
+        "MAE_Val": 2.1356602618408207,
+        "RMSE_Val": 2.7188240852938934
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9830902952661498,
+        "R2_Val": 0.9143044962628324,
+        "MAE_Val": 2.2308453120422365,
+        "RMSE_Val": 2.8474919000439542
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9901820463744837,
+        "R2_Val": 0.9346015908474433,
+        "MAE_Val": 1.91934954498291,
+        "RMSE_Val": 2.47541517680385
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.991653681389986,
+        "R2_Val": 0.925349524368008,
+        "MAE_Val": 2.038717464904785,
+        "RMSE_Val": 2.635338925433711
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.8229972173659457,
+        "R2_Val": 0.759564484784157,
+        "MAE_Val": 4.121669221801758,
+        "RMSE_Val": 4.9904760391127425
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.8312126638936903,
+        "R2_Val": 0.7538876783718731,
+        "MAE_Val": 4.176646870574951,
+        "RMSE_Val": 5.041802312860363
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9219213107732813,
+        "R2_Val": 0.852351722586414,
+        "MAE_Val": 3.1510882254028316,
+        "RMSE_Val": 3.873406708739681
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9281482861244987,
+        "R2_Val": 0.8420660492069398,
+        "MAE_Val": 3.2476357882690428,
+        "RMSE_Val": 3.9888387609543976
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9645478945437048,
+        "R2_Val": 0.8945317446346822,
+        "MAE_Val": 2.5954972035217283,
+        "RMSE_Val": 3.245075501337636
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9688102231363773,
+        "R2_Val": 0.8813077282360897,
+        "MAE_Val": 2.7171566218566894,
+        "RMSE_Val": 3.423950946433193
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9834700459782368,
+        "R2_Val": 0.9153203985390361,
+        "MAE_Val": 2.276064324035644,
+        "RMSE_Val": 2.892903959297923
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9862054754983334,
+        "R2_Val": 0.8998310828081502,
+        "MAE_Val": 2.439042740020752,
+        "RMSE_Val": 3.1329836726686855
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9921108042867518,
+        "R2_Val": 0.9264331962663332,
+        "MAE_Val": 2.08328735534668,
+        "RMSE_Val": 2.6891427410279656
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.01,
+            "max_depth": 20,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9937896368092944,
+        "R2_Val": 0.9093284675590241,
+        "MAE_Val": 2.2813451715087885,
+        "RMSE_Val": 2.9780228529140795
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.979361333906712,
+        "R2_Val": 0.9728777851797774,
+        "MAE_Val": 1.2614119683074951,
+        "RMSE_Val": 1.6992779472835193
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9790609211743238,
+        "R2_Val": 0.9718968669578205,
+        "MAE_Val": 1.2711133902740477,
+        "RMSE_Val": 1.7257148687712445
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9906108044693633,
+        "R2_Val": 0.9860901642303274,
+        "MAE_Val": 0.914994224243164,
+        "RMSE_Val": 1.2076845381754413
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9905357026836652,
+        "R2_Val": 0.9855154005569275,
+        "MAE_Val": 0.9105795359802246,
+        "RMSE_Val": 1.2259639856346907
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9942766687748114,
+        "R2_Val": 0.9909221581050582,
+        "MAE_Val": 0.7482602410888671,
+        "RMSE_Val": 0.9694461944280485
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9943340933775581,
+        "R2_Val": 0.990654499065788,
+        "MAE_Val": 0.7296220145416259,
+        "RMSE_Val": 0.976267250351904
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9958436605925588,
+        "R2_Val": 0.9931518396690546,
+        "MAE_Val": 0.6515470516967773,
+        "RMSE_Val": 0.8367866671187986
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9958713423088221,
+        "R2_Val": 0.9929063511161165,
+        "MAE_Val": 0.6409645851135254,
+        "RMSE_Val": 0.8487834595054207
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9966287037086051,
+        "R2_Val": 0.994269357386543,
+        "MAE_Val": 0.5949093682861328,
+        "RMSE_Val": 0.7637148415641166
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9966400763649308,
+        "R2_Val": 0.9940346071248927,
+        "MAE_Val": 0.5900680698394776,
+        "RMSE_Val": 0.7752017771244862
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9944030192037342,
+        "R2_Val": 0.9838733729494707,
+        "MAE_Val": 0.926695426635742,
+        "RMSE_Val": 1.216185953124888
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9945831932084651,
+        "R2_Val": 0.9828420596432578,
+        "MAE_Val": 0.9440536802673339,
+        "RMSE_Val": 1.2609593448673628
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9970201188714485,
+        "R2_Val": 0.9883321829907393,
+        "MAE_Val": 0.7765179118347167,
+        "RMSE_Val": 1.0151785043945165
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9971611657528706,
+        "R2_Val": 0.9876047864503237,
+        "MAE_Val": 0.7863130855560303,
+        "RMSE_Val": 1.0418255234834555
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9979695438484315,
+        "R2_Val": 0.9896731514307714,
+        "MAE_Val": 0.7298673279571533,
+        "RMSE_Val": 0.950089933971081
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9980553260635283,
+        "R2_Val": 0.988987995097528,
+        "MAE_Val": 0.7303438508605957,
+        "RMSE_Val": 0.9635262866634813
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9984830670212121,
+        "R2_Val": 0.9901574693562205,
+        "MAE_Val": 0.7118782714843749,
+        "RMSE_Val": 0.9276324600328123
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9985286926896844,
+        "R2_Val": 0.9895450415710597,
+        "MAE_Val": 0.7101135790252686,
+        "RMSE_Val": 0.9335848131210783
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9988249563273321,
+        "R2_Val": 0.9903581690922719,
+        "MAE_Val": 0.7007846030426025,
+        "RMSE_Val": 0.9126814825565102
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9988324384691174,
+        "R2_Val": 0.9898142848658213,
+        "MAE_Val": 0.7011964762115479,
+        "RMSE_Val": 0.9202639303141553
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9984802990445363,
+        "R2_Val": 0.9778722669656223,
+        "MAE_Val": 1.0490365004730224,
+        "RMSE_Val": 1.3876152311879353
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9986492932113142,
+        "R2_Val": 0.975757471950572,
+        "MAE_Val": 1.1202403191375734,
+        "RMSE_Val": 1.4682875452266997
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9993734250285448,
+        "R2_Val": 0.9794504703860426,
+        "MAE_Val": 1.001045637741089,
+        "RMSE_Val": 1.3268467794244005
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.999438058660561,
+        "R2_Val": 0.9772996727178949,
+        "MAE_Val": 1.0752278960418702,
+        "RMSE_Val": 1.4093486015839416
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9996952621093227,
+        "R2_Val": 0.9798138654937485,
+        "MAE_Val": 0.9885172035217284,
+        "RMSE_Val": 1.311591098065964
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9997234690931908,
+        "R2_Val": 0.977730079657636,
+        "MAE_Val": 1.0651562329864503,
+        "RMSE_Val": 1.3957960453488136
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.999848870589849,
+        "R2_Val": 0.9799362197124426,
+        "MAE_Val": 0.983483251953125,
+        "RMSE_Val": 1.304549217396841
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.999852515879706,
+        "R2_Val": 0.9778786992749289,
+        "MAE_Val": 1.061436151046753,
+        "RMSE_Val": 1.3914975231690039
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999220148217371,
+        "R2_Val": 0.979996007256555,
+        "MAE_Val": 0.9818328805541991,
+        "RMSE_Val": 1.3026085293573852
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 7,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9999163839491256,
+        "R2_Val": 0.9779456439944795,
+        "MAE_Val": 1.059724638671875,
+        "RMSE_Val": 1.388192933608715
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999688059320269,
+        "R2_Val": 0.9533647391351799,
+        "MAE_Val": 1.5472707678985593,
+        "RMSE_Val": 2.060820514119218
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9999880298747529,
+        "R2_Val": 0.9445820882533207,
+        "MAE_Val": 1.6878835742950442,
+        "RMSE_Val": 2.222333390598629
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999969837375055,
+        "R2_Val": 0.9536304020730653,
+        "MAE_Val": 1.5417859576416015,
+        "RMSE_Val": 2.054133319670761
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9999989433000256,
+        "R2_Val": 0.9447614135187271,
+        "MAE_Val": 1.6841180227661134,
+        "RMSE_Val": 2.2180011803570987
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999996212426314,
+        "R2_Val": 0.9536553861272766,
+        "MAE_Val": 1.5407696974945069,
+        "RMSE_Val": 2.053035784862041
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9999998289218832,
+        "R2_Val": 0.944778842261276,
+        "MAE_Val": 1.6837669809722902,
+        "RMSE_Val": 2.217520228945796
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999999547680052,
+        "R2_Val": 0.9536608976083762,
+        "MAE_Val": 1.5407043067932127,
+        "RMSE_Val": 2.052962197633301
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9999999662092076,
+        "R2_Val": 0.944781793187305,
+        "MAE_Val": 1.6836735742950442,
+        "RMSE_Val": 2.2173514746841536
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999999937393721,
+        "R2_Val": 0.9536619831374317,
+        "MAE_Val": 1.5407459556579588,
+        "RMSE_Val": 2.053002712880514
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 10,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.999999981509141,
+        "R2_Val": 0.9447823155187853,
+        "MAE_Val": 1.6836999090576172,
+        "RMSE_Val": 2.217348016005908
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 100,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999983857511585,
+        "R2_Val": 0.9399613986562512,
+        "MAE_Val": 1.8497755841064452,
+        "RMSE_Val": 2.4302075492764916
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 100,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9999996265945235,
+        "R2_Val": 0.9243073895420377,
+        "MAE_Val": 2.056512583694458,
+        "RMSE_Val": 2.741943405136672
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 150,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999999840136542,
+        "R2_Val": 0.9400925392701645,
+        "MAE_Val": 1.8480097607421875,
+        "RMSE_Val": 2.4278976246294843
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 150,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9999999977355072,
+        "R2_Val": 0.924372688303464,
+        "MAE_Val": 2.055790007553101,
+        "RMSE_Val": 2.740983315022216
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 200,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999999983180551,
+        "R2_Val": 0.9400993794930066,
+        "MAE_Val": 1.8478944538879394,
+        "RMSE_Val": 2.4277459661161798
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 200,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.999999999161697,
+        "R2_Val": 0.9243767288018985,
+        "MAE_Val": 2.05573587890625,
+        "RMSE_Val": 2.7409171793995704
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 250,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999999984515459,
+        "R2_Val": 0.9400996193706451,
+        "MAE_Val": 1.8478897560882568,
+        "RMSE_Val": 2.4277411729599505
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 250,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.9999999991678781,
+        "R2_Val": 0.9243768339922378,
+        "MAE_Val": 2.055734362564087,
+        "RMSE_Val": 2.7409155124494267
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 300,
+            "subsample": 0.8
+        },
+        "R2_Train": 0.9999999984702574,
+        "R2_Val": 0.9400996660004868,
+        "MAE_Val": 1.847888165359497,
+        "RMSE_Val": 2.427739697075559
+    },
+    {
+        "Modelo": "XGBoost",
+        "Configuracao": {
+            "colsample_bytree": 1.0,
+            "learning_rate": 0.1,
+            "max_depth": 20,
+            "n_estimators": 300,
+            "subsample": 1.0
+        },
+        "R2_Train": 0.999999999171733,
+        "R2_Val": 0.924376876265357,
+        "MAE_Val": 2.055733139953613,
+        "RMSE_Val": 2.740914233129311
+    }
+]

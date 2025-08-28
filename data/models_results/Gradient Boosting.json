@@ -1,0 +1,98 @@
+[
+    {
+        "Modelo": "Gradient Boosting",
+        "Configuracao": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "n_estimators": 100
+        },
+        "R2_Train": 0.9296509132506424,
+        "R2_Val": 0.919970867702445,
+        "MAE_Val": 2.2007806997030075,
+        "RMSE_Val": 2.896119073397774
+    },
+    {
+        "Modelo": "Gradient Boosting",
+        "Configuracao": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "n_estimators": 200
+        },
+        "R2_Train": 0.9791007590187384,
+        "R2_Val": 0.9717212597119265,
+        "MAE_Val": 1.2626322183333174,
+        "RMSE_Val": 1.7270136134241323
+    },
+    {
+        "Modelo": "Gradient Boosting",
+        "Configuracao": {
+            "learning_rate": 0.05,
+            "max_depth": 5,
+            "n_estimators": 100
+        },
+        "R2_Train": 0.9765117456800567,
+        "R2_Val": 0.9580601556525135,
+        "MAE_Val": 1.5351704178812906,
+        "RMSE_Val": 2.0334577440491266
+    },
+    {
+        "Modelo": "Gradient Boosting",
+        "Configuracao": {
+            "learning_rate": 0.05,
+            "max_depth": 5,
+            "n_estimators": 200
+        },
+        "R2_Train": 0.9952277163766636,
+        "R2_Val": 0.9833876788526444,
+        "MAE_Val": 0.8948836137269568,
+        "RMSE_Val": 1.2114421017359527
+    },
+    {
+        "Modelo": "Gradient Boosting",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 100
+        },
+        "R2_Train": 0.9792042018812154,
+        "R2_Val": 0.9718534905502583,
+        "MAE_Val": 1.2703550842906046,
+        "RMSE_Val": 1.713905460263145
+    },
+    {
+        "Modelo": "Gradient Boosting",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 200
+        },
+        "R2_Train": 0.9943657279061358,
+        "R2_Val": 0.9905289122234334,
+        "MAE_Val": 0.7249528839083059,
+        "RMSE_Val": 0.9641468211177999
+    },
+    {
+        "Modelo": "Gradient Boosting",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 100
+        },
+        "R2_Train": 0.9947820910441131,
+        "R2_Val": 0.9829700771568145,
+        "MAE_Val": 0.9273542743512782,
+        "RMSE_Val": 1.23037994546699
+    },
+    {
+        "Modelo": "Gradient Boosting",
+        "Configuracao": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "n_estimators": 200
+        },
+        "R2_Train": 0.9981958616250928,
+        "R2_Val": 0.9890533471575,
+        "MAE_Val": 0.7293881523554459,
+        "RMSE_Val": 0.953004333717699
+    }
+]

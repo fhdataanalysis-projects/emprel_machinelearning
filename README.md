@@ -37,11 +37,34 @@ O pipeline completo envolve:
 
 ## 🗄️ Coleta de Dados
 
-Os dados foram armazenados em um banco PostgreSQL.
+Os dados foram gerados artificialmente com base em pesquisas da área de atuação do desafio e não envolve o cenário real, tendo como objetivo principal demonstrar a técnica e o processo utilizado para avaliar e criar um modelo preditivo capaz de resolver o problema. Os dados gerados artificialmente foram armazenandos em um banco local PostgreSQL via docker.
 
 Scripts SQL para criação do banco e carga inicial estão em `data/docker/init/` .
 
 A extração foi feita em formato CSV, armazenados em `data/raw/` .
+
+## Análise Explorátoria dos Dados
+O processo envolveu em identificar possíveis problemas nos dados estabelecer as etapas do pré processamento dos dados de acordo com o tipo de dado de cada feature do dataset.
+
+Com base nisso, identificamos que a maioria das colunas possuiam careter ordinal que foi preciso usar o `OrdinalEncoder` e `OneHotEncoder` para as demais colunas categóricas. Já paraas variáveis númericas foi usado o `StandardScaler` para normalizar os dados númericos em uma escala em comum.
+
+A partir disso, foi realizado alguns testes estátisticos iniciais para identificar multicolinearidade entre as variáveis.
+
+![Matriz de Correlação](notebooks/images/matriz_corr.png)
+
+A maioria das variáveis apresenta baixa correlação entre si (próxima de zero), o que é positivo → significa baixa multicolinearidade.
+
+Algumas correlações chamam atenção:
+
+- governanca_financeira vs. score_total (0.64) → correlação moderada-forte, possivelmente variável importante para o modelo.
+
+- mix_receita vs. score_total (0.44) → também tem influência significativa.
+
+- ticket_medio vs. tipo_servico (0.40) → pode haver relação estrutural entre o tipo de serviço e o ticket médio.
+
+- churn vs. score_total (-0.31) → correlação negativa, empresas com maior score tendem a ter menor churn.
+
+Nenhuma correlação próxima de 0.9 ou maior → sem risco forte de multicolinearidade que comprometa o modelo.
 
 ## 🤖 Modelagem
 
@@ -71,33 +94,13 @@ A extração foi feita em formato CSV, armazenados em `data/raw/` .
 
 - LightGBM
 
-- XGBoost ✅
+- XGBoost 
 
 
 
 ## Métricas avaliadas:
 
-- **R² (Coeficiente de Determinação)**  
-
-$$
-R^2 = 1 - \frac{\sum_{i=1}^{n}(y_i - \hat{y}_i)^2}{\sum_{i=1}^{n}(y_i - \bar{y})^2}
-$$
-
-
-- **MAE (Erro Absoluto Médio)**  
-
-$$
-MAE = \frac{1}{n} \sum_{i=1}^{n} \left| y_i - \hat{y}_i \right|
-$$
-
-
-- **RMSE (Raiz do Erro Quadrático Médio)**  
-
-$$
-RMSE = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2}
-$$
-
-
+![forms](notebooks/images/formulas.png)
 
 ## Melhor modelo:
 
@@ -135,6 +138,32 @@ ___
 E também avaliamos a evolução do erro (MAE, RMSE) em relação ao R², que foi a nossa métrica de decisão.
 
 ![Importância das Features](notebooks/images/metric_compar.png)
+
+#### Análise do Modelo Escolhido
+Após a seleção do modelo, uma série de testes estatísticos foi realizada para avaliar seu desempenho e a validade de suas suposições. A análise dos resíduos, em particular, nos fornece insights valiosos sobre a capacidade do modelo de capturar a relação entre as variáveis, a distribuição dos erros e a ocorrência de possíveis vieses.
+
+#### Resíduos vs. Predições
+
+![Importância das Features](notebooks/images/residuo-vs-predicao.png)
+
+Os resíduos estão distribuídos ao redor de zero, mas há uma leve concentração maior nos valores médios.
+
+Não há padrão óbvio, o que sugere que o modelo capturou bem a relação entre as variáveis. Pequenas áreas de dispersão maior nos extremos podem indicar que o modelo erra um pouco mais para valores altos ou baixos, mas nada alarmante.
+
+O gráfico de resíduos vs predições não mostra um funil evidente, a variância dos erros é aproximadamente constante, ou seja, o modelo não tende a errar mais em determinados níveis de predição.
+
+#### Gráfico Q-Q Plot e Normalidade dos Resíduos
+
+
+![Importância das Features](notebooks/images/qqplot.png)
+
+Shapiro-Wilk: estatística = 0.990, p-valor = 0.000
+
+O Q-Q plot dos resíduos seguem a linha central na maior parte, mas os extremos se desviam.
+
+Os resíduos não são perfeitamente normais, principalmente nas extremidades (valores muito altos ou muito baixos). 
+
+Para XGBoost isso não é crítico, mas indica que o modelo pode subestimar ou superestimar valores extremos.
 
 ## 💻 Interface (Streamlit)
 

@@ -4,10 +4,9 @@ import streamlit as st
 
 st.set_page_config(layout="wide")
 
-st.title("Desafio CORETO - Cientista de Dados")
-st.write("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
+st.title("Desafio 4 CORETO - Cientista de Dados")
 
-'### Previsão de Score'
+'### Previsão de Score para Matchmaker de Startups'
 '___'
 
 
@@ -115,6 +114,16 @@ with st.expander("**Formulário de Avaliação da Startup**", expanded=True):
 
         st.success(f"✅ O Score previsto da Startup {startup_name}: {y_pred_novo[0]:.2f}")
 
+
+# crie uma tabela dataframe que armazena o nome e os score de cada startup avaliada e em seguida os mostre em uma tabela
+if 'resultados' not in st.session_state:
+    st.session_state.resultados = []
+if submit:
+    st.session_state.resultados.append((startup_name, y_pred_novo[0]))
+if st.session_state.resultados:
+    df_resultados = pd.DataFrame(st.session_state.resultados, columns=['Startup', 'Score Previsto'])
+    st.subheader("Resultados das Startups Avaliadas")
+    st.table(df_resultados)
 
 
 

@@ -1,5 +1,7 @@
 # 📊 Startup Score Prediction
 
+https://emprel-machinelearning.onrender.com/
+
 O projeto visa propor uma solução para o Desafio 4 - Ciência de Dados para compor uma nova funcionalidade e alimentar o matchmaker de startups com soluçoes na plataforma Coreto da Prefeitura do Recife em parceria com a EMPREL.
 
 Este projeto tem como objetivo prever o score de maturidade de startups com base em diferentes variáveis relacionadas a tração, rede de parceiros, governança, tecnologia e aspectos financeiros. 

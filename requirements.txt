@@ -1,3 +1,8 @@
+# Ferramentas de build (evita erros de compilação no Render)
+pip==24.2
+setuptools==70.0.0
+wheel==0.43.0
+
 # Manipulação de dados
 pandas==2.2.2
 numpy==1.26.4
@@ -27,6 +32,6 @@ ipykernel==6.29.4
 python-dotenv==1.0.1
 joblib==1.4.2
 
-# Estatisticas
+# Estatísticas
 scipy==1.11.4
-statsmodels==0.14.0
+statsmodels==0.14.1
